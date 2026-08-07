@@ -1,2 +1,2 @@
 # HTML-Codes
-Mu HTML practice project
+My HTML practice project
