@@ -1,0 +1,23 @@
+<! DOCTYPE >
+<html>
+<head>
+     <title> My Student Life </title>
+</head>
+<body> 
+     <h1> My Student Life </h1>
+     <h2> My Course </h2>
+     <p> BSC Computer Science </p>
+     <h2> My Daily Activities </h2>
+     <ol>
+        <li> Attend college </li>
+        <li> Complete assignments </li>
+        <li> Practice coding </li>
+        <li> Revise lessons </li>
+    </ol>
+    <h2> My Aim </h2>
+    <p>
+        To improve my knowledge and 
+technical skills.
+    </p>
+</body>
+</html>
