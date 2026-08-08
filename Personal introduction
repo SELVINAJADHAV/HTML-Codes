@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<title> Personal Introduction </title>
+</head>
+<body>
+<h1> My Personal Introduction </h1>
+<h2> HELLO! </h2>
+<p> My name is Selvina. </p>
+<p> i am a Second-year BSC Computer Science Student. </p>
+<h2> About My Studies </h2>
+<p> 
+    I am interested in learning programming,
+        web development and computer technology.
+ </p>
+   <h2> My Hobbies </h2> 
+   <p> Football </p>
+   <p> Music </p>
+   <p> Learning new things </p> 
+</body>
+</html>
