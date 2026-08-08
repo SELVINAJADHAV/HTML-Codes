@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Cute Flower Garden</title>
+</head>
+
+<body>
+
+    <h1>🌸 Welcome to My Flower Garden 🌸</h1>
+
+    <p>Flowers make everything feel a little brighter!</p>
+
+    <h2>🌷 My Favorite Flowers</h2>
+
+    <ul>
+        <li>🌹 Rose</li>
+        <li>🌷 Tulip</li>
+        <li>🌻 Sunflower</li>
+        <li>🌸 Cherry Blossom</li>
+    </ul>
+
+    <h2>💗 My Favorite</h2>
+
+    <p>Sunflowers because they look bright and cheerful!</p>
+
+</body>
+</html>
