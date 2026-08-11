@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My College</title>
+</head>
+<body>
+
+    <h1>🏫 My College</h1>
+
+    <h2>College Information</h2>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Information</th>
+            <th>Details</th>
+        </tr>
+
+        <tr>
+            <td>Course</td>
+            <td>B.Sc. Computer Science</td>
+        </tr>
+
+        <tr>
+            <td>Year</td>
+            <td>First Year</td>
+        </tr>
+
+        <tr>
+            <td>Department</td>
+            <td>Computer Science</td>
+        </tr>
+    </table>
+
+    <h2>What I Learn</h2>
+
+    <ul>
+        <li>HTML</li>
+        <li>C Programming</li>
+        <li>Database Management</li>
+        <li>Digital Electronics</li>
+    </ul>
+
+</body>
+</html>
