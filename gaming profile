@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Profile</title>
+</head>
+<body>
+
+    <h1>🎮 My Gaming Profile</h1>
+
+    <h2>Favorite Games</h2>
+
+    <ul>
+        <li>Adventure Games</li>
+        <li>Racing Games</li>
+        <li>Puzzle Games</li>
+        <li>Sports Games</li>
+    </ul>
+
+    <h2>Gaming Goals</h2>
+
+    <ol>
+        <li>Improve my skills</li>
+        <li>Complete difficult levels</li>
+        <li>Play fairly</li>
+    </ol>
+
+</body>
+</html>
