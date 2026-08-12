@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mini Dictionary</title>
+</head>
+<body>
+
+    <h1>📖 Mini Dictionary</h1>
+
+    <dl>
+
+        <dt><strong>HTML</strong></dt>
+        <dd>HyperText Markup Language.</dd>
+
+        <dt><strong>CSS</strong></dt>
+        <dd>Cascading Style Sheets.</dd>
+
+        <dt><strong>URL</strong></dt>
+        <dd>Uniform Resource Locator.</dd>
+
+        <dt><strong>HTTP</strong></dt>
+        <dd>HyperText Transfer Protocol.</dd>
+
+    </dl>
+
+</body>
+</html>
