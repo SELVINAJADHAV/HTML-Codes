@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cafe Menu</title>
+</head>
+<body>
+
+    <h1>☕ SJ Cafe</h1>
+
+    <h2>Drinks</h2>
+
+    <ul>
+        <li>Coffee — ₹80</li>
+        <li>Tea — ₹50</li>
+        <li>Cold Coffee — ₹120</li>
+        <li>Milkshake — ₹150</li>
+    </ul>
+
+    <h2>Snacks</h2>
+
+    <ul>
+        <li>Sandwich — ₹100</li>
+        <li>French Fries — ₹90</li>
+        <li>Pizza — ₹180</li>
+        <li>Cake — ₹100</li>
+    </ul>
+
+</body>
+</html>
