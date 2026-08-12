@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Expense List</title>
+</head>
+<body>
+
+    <h1>💰 My Expense List</h1>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Item</th>
+            <th>Amount</th>
+        </tr>
+
+        <tr>
+            <td>Food</td>
+            <td>₹150</td>
+        </tr>
+
+        <tr>
+            <td>Travel</td>
+            <td>₹100</td>
+        </tr>
+
+        <tr>
+            <td>Books</td>
+            <td>₹300</td>
+        </tr>
+
+        <tr>
+            <th>Total</th>
+            <th>₹550</th>
+        </tr>
+    </table>
+
+</body>
+</html>
