@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mini News</title>
+</head>
+<body>
+
+    <header>
+        <h1>📰 Daily Student News</h1>
+    </header>
+
+    <hr>
+
+    <article>
+        <h2>Technology News 💻</h2>
+        <p>
+            Technology continues to change the way students learn
+            and build new skills.
+        </p>
+    </article>
+
+    <article>
+        <h2>Education News 📚</h2>
+        <p>
+            Online learning resources are helping students practice
+            new subjects from home.
+        </p>
+    </article>
+
+    <article>
+        <h2>Sports News ⚽</h2>
+        <p>
+            Students continue to participate in sports and outdoor
+            activities.
+        </p>
+    </article>
+
+</body>
+</html>
