@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keyboard Shortcuts</title>
+</head>
+<body>
+
+<h1>⌨️ Keyboard Shortcut Guide</h1>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Shortcut</th>
+<th>Action</th>
+</tr>
+
+<tr>
+<td>Ctrl + C</td>
+<td>Copy</td>
+</tr>
+
+<tr>
+<td>Ctrl + V</td>
+<td>Paste</td>
+</tr>
+
+<tr>
+<td>Ctrl + S</td>
+<td>Save</td>
+</tr>
+
+<tr>
+<td>Ctrl + Z</td>
+<td>Undo</td>
+</tr>
+
+<tr>
+<td>Ctrl + F</td>
+<td>Find</td>
+</tr>
+
+</table>
+
+</body>
+</html>
