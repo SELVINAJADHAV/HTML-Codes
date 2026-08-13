@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keyboard Layout</title>
+</head>
+<body>
+
+<h1>⌨️ Keyboard Layout</h1>
+
+<table border="1" cellpadding="15">
+
+<tr>
+<td>Esc</td>
+<td>F1</td>
+<td>F2</td>
+<td>F3</td>
+<td>F4</td>
+</tr>
+
+<tr>
+<td>Tab</td>
+<td>Q</td>
+<td>W</td>
+<td>E</td>
+<td>R</td>
+</tr>
+
+<tr>
+<td>Caps</td>
+<td>A</td>
+<td>S</td>
+<td>D</td>
+<td>F</td>
+</tr>
+
+<tr>
+<td>Shift</td>
+<td>Z</td>
+<td>X</td>
+<td>C</td>
+<td>V</td>
+</tr>
+
+</table>
+
+</body>
+</html>
