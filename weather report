@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Report</title>
+</head>
+<body>
+
+<header>
+    <h1>🌦️ Today's Weather</h1>
+</header>
+
+<main>
+
+    <section>
+        <h2>📍 Pune</h2>
+        <p><strong>Temperature:</strong> 27°C</p>
+        <p><strong>Condition:</strong> Partly Cloudy</p>
+        <p><strong>Humidity:</strong> 68%</p>
+        <p><strong>Wind:</strong> 12 km/h</p>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>🌤️ Forecast</h2>
+
+        <table border="1" cellpadding="10">
+            <tr>
+                <th>Day</th>
+                <th>Temperature</th>
+                <th>Condition</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>28°C</td>
+                <td>Sunny</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>26°C</td>
+                <td>Cloudy</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>25°C</td>
+                <td>Rainy</td>
+            </tr>
+        </table>
+    </section>
+
+</main>
+
+</body>
+</html>
