@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Computer Parts</title>
+</head>
+<body>
+
+<h1>🖥️ Computer Parts Catalog</h1>
+
+<table border="1" cellpadding="12">
+
+<tr>
+<th>Component</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td>CPU</td>
+<td>Processes instructions</td>
+</tr>
+
+<tr>
+<td>RAM</td>
+<td>Temporary memory</td>
+</tr>
+
+<tr>
+<td>SSD</td>
+<td>Stores data</td>
+</tr>
+
+<tr>
+<td>Keyboard</td>
+<td>Input device</td>
+</tr>
+
+<tr>
+<td>Monitor</td>
+<td>Output device</td>
+</tr>
+
+</table>
+
+</body>
+</html>
