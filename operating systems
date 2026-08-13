@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Operating Systems</title>
+</head>
+<body>
+
+<h1>💻 Operating Systems</h1>
+
+<ul>
+
+<li>
+<strong>Windows</strong>
+<br>
+Popular desktop operating system.
+</li>
+
+<br>
+
+<li>
+<strong>Linux</strong>
+<br>
+Open-source operating system.
+</li>
+
+<br>
+
+<li>
+<strong>macOS</strong>
+<br>
+Operating system developed for Mac computers.
+</li>
+
+<br>
+
+<li>
+<strong>Android</strong>
+<br>
+Mobile operating system.
+</li>
+
+</ul>
+
+</body>
+</html>
