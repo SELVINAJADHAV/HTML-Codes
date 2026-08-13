@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Elements</title>
+</head>
+<body>
+
+<h1>📖 HTML Elements Encyclopedia</h1>
+
+<dl>
+
+<dt><strong>Heading</strong></dt>
+<dd>Creates headings using h1 to h6.</dd>
+
+<dt><strong>Paragraph</strong></dt>
+<dd>Displays normal text.</dd>
+
+<dt><strong>Anchor</strong></dt>
+<dd>Creates hyperlinks.</dd>
+
+<dt><strong>Image</strong></dt>
+<dd>Displays an image.</dd>
+
+<dt><strong>Table</strong></dt>
+<dd>Displays information in rows and columns.</dd>
+
+</dl>
+
+</body>
+</html>
