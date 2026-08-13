@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Extensions</title>
+</head>
+<body>
+
+<h1>📁 File Extension Guide</h1>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Extension</th>
+<th>File Type</th>
+</tr>
+
+<tr>
+<td>.html</td>
+<td>HTML document</td>
+</tr>
+
+<tr>
+<td>.css</td>
+<td>Stylesheet</td>
+</tr>
+
+<tr>
+<td>.js</td>
+<td>JavaScript file</td>
+</tr>
+
+<tr>
+<td>.py</td>
+<td>Python file</td>
+</tr>
+
+<tr>
+<td>.sql</td>
+<td>SQL file</td>
+</tr>
+
+<tr>
+<td>.txt</td>
+<td>Text file</td>
+</tr>
+
+</table>
+
+</body>
+</html>
