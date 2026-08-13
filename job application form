@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Application</title>
+</head>
+<body>
+
+<h1>🧑‍💼 Job Application</h1>
+
+<form>
+
+<fieldset>
+
+<legend>Personal Information</legend>
+
+<label>Full Name:</label>
+<input type="text">
+
+<br><br>
+
+<label>Email:</label>
+<input type="email">
+
+<br><br>
+
+<label>Phone:</label>
+<input type="tel">
+
+</fieldset>
+
+<br>
+
+<fieldset>
+
+<legend>Professional Information</legend>
+
+<label>Position:</label>
+
+<input list="positions">
+
+<datalist id="positions">
+    <option value="Web Developer">
+    <option value="Software Developer">
+    <option value="Database Developer">
+    <option value="UI Designer">
+</datalist>
+
+<br><br>
+
+<label>Experience:</label>
+
+<select>
+    <option>Fresher</option>
+    <option>1–2 Years</option>
+    <option>3–5 Years</option>
+    <option>5+ Years</option>
+</select>
+
+</fieldset>
+
+<br>
+
+<input type="submit" value="Apply">
+
+</form>
+
+</body>
+</html>
