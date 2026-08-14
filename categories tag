@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Tags</title>
+</head>
+<body>
+
+<h1>🏷️ HTML Tag Categories</h1>
+
+<h2>Text</h2>
+<p>h1, h2, p, strong, em</p>
+
+<h2>Structure</h2>
+<p>header, main, section, article, footer</p>
+
+<h2>Lists</h2>
+<p>ul, ol, li, dl</p>
+
+<h2>Forms</h2>
+<p>form, input, select, textarea, button</p>
+
+<h2>Media</h2>
+<p>img, audio, video</p>
+
+</body>
+</html>
