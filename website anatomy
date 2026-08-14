@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Anatomy</title>
+</head>
+<body>
+
+<header>
+    <h1>Website Header</h1>
+</header>
+
+<nav>
+    <p>Navigation Menu</p>
+</nav>
+
+<main>
+
+<section>
+    <h2>Main Content</h2>
+    <p>This is the main webpage area.</p>
+</section>
+
+<article>
+    <h2>Article</h2>
+    <p>An article contains independent content.</p>
+</article>
+
+</main>
+
+<footer>
+    <p>Website Footer</p>
+</footer>
+
+</body>
+</html>
