@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Anatomy</title>
+</head>
+<body>
+
+<h1>🔗 Anatomy of a URL</h1>
+
+<p>
+https://www.example.com/products/item
+</p>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Part</th>
+<th>Meaning</th>
+</tr>
+
+<tr>
+<td>https</td>
+<td>Protocol</td>
+</tr>
+
+<tr>
+<td>www</td>
+<td>Subdomain</td>
+</tr>
+
+<tr>
+<td>example.com</td>
+<td>Domain</td>
+</tr>
+
+<tr>
+<td>/products/item</td>
+<td>Path</td>
+</tr>
+
+</table>
+
+</body>
+</html>
