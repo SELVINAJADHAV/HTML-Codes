@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume Timeline</title>
+</head>
+<body>
+
+<header>
+    <h1>⏳ My Learning Timeline</h1>
+    <p>A journey through my education and coding experience.</p>
+</header>
+
+<hr>
+
+<section>
+
+    <h2>My Journey</h2>
+
+    <article>
+        <h3><time datetime="2022">2022</time></h3>
+        <p>Started exploring computer technology.</p>
+    </article>
+
+    <article>
+        <h3><time datetime="2024">2024</time></h3>
+        <p>Started learning programming concepts.</p>
+    </article>
+
+    <article>
+        <h3><time datetime="2025">2025</time></h3>
+        <p>Practiced C programming and databases.</p>
+    </article>
+
+    <article>
+        <h3><time datetime="2026">2026</time></h3>
+        <p>Started building HTML projects for GitHub.</p>
+    </article>
+
+</section>
+
+<footer>
+    <hr>
+    <p>🚀 The journey continues...</p>
+</footer>
+
+</body>
+</html>
