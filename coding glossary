@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Coding Glossary</title>
+</head>
+<body>
+
+<h1>📚 Beginner Coding Glossary</h1>
+
+<dl>
+
+<dt><strong>Variable</strong></dt>
+<dd>A named storage location for data.</dd>
+
+<dt><strong>Function</strong></dt>
+<dd>A reusable block of instructions.</dd>
+
+<dt><strong>Loop</strong></dt>
+<dd>Repeats instructions.</dd>
+
+<dt><strong>Bug</strong></dt>
+<dd>An error in a program.</dd>
+
+<dt><strong>Compiler</strong></dt>
+<dd>Converts source code into another form that can be executed.</dd>
+
+</dl>
+
+</body>
+</html>
