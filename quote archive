@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quote Archive</title>
+</head>
+<body>
+
+<h1>💬 Quote Archive</h1>
+
+<article>
+
+<h2>Learning</h2>
+
+<blockquote>
+    The beautiful thing about learning is that nobody
+    can take it away from you.
+</blockquote>
+
+</article>
+
+<hr>
+
+<article>
+
+<h2>Success</h2>
+
+<blockquote>
+    Success comes from consistent effort and patience.
+</blockquote>
+
+</article>
+
+<hr>
+
+<article>
+
+<h2>Kindness</h2>
+
+<p>
+A simple <q>thank you</q> can make someone's day better.
+</p>
+
+</article>
+
+</body>
+</html>
