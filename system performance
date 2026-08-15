@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>System Performance</title>
+</head>
+<body>
+
+<h1>🖥️ System Performance</h1>
+
+<section>
+
+<h2>CPU Usage</h2>
+<meter min="0" max="100" value="42">
+42%
+</meter>
+
+<p>42% used</p>
+
+<h2>Memory</h2>
+<meter min="0" max="100" value="68">
+68%
+</meter>
+
+<p>68% used</p>
+
+<h2>Storage</h2>
+<meter min="0" max="100" value="57">
+57%
+</meter>
+
+<p>57% used</p>
+
+<h2>Battery</h2>
+<meter min="0" max="100" value="82">
+82%
+</meter>
+
+<p>82% remaining</p>
+
+</section>
+
+</body>
+</html>
