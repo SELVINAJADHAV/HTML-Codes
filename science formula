@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Science Formulas</title>
+</head>
+<body>
+
+<h1>🔬 Science Formula Collection</h1>
+
+<h2>Speed</h2>
+
+<p>
+<var>v</var> = <var>d</var> / <var>t</var>
+</p>
+
+<h2>Force</h2>
+
+<p>
+<var>F</var> = <var>m</var><var>a</var>
+</p>
+
+<h2>Density</h2>
+
+<p>
+<var>ρ</var> = <var>m</var> / <var>V</var>
+</p>
+
+<h2>Power</h2>
+
+<p>
+<var>P</var> = <var>W</var> / <var>t</var>
+</p>
+
+</body>
+</html>
