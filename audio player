@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Audio Player</title>
+</head>
+<body>
+
+<header>
+    <h1>🎧 My Audio Player</h1>
+    <p>Listen to my favorite audio collection.</p>
+</header>
+
+<hr>
+
+<main>
+
+    <h2>🎵 Track 01</h2>
+    <p>Morning Music</p>
+
+    <audio controls>
+        <source src="audio1.mp3" type="audio/mpeg">
+        Your browser does not support audio.
+    </audio>
+
+    <h2>🎵 Track 02</h2>
+    <p>Relaxing Evening</p>
+
+    <audio controls>
+        <source src="audio2.mp3" type="audio/mpeg">
+        Your browser does not support audio.
+    </audio>
+
+    <h2>🎵 Track 03</h2>
+    <p>Study Time</p>
+
+    <audio controls>
+        <source src="audio3.mp3" type="audio/mpeg">
+        Your browser does not support audio.
+    </audio>
+
+</main>
+
+<hr>
+
+<footer>
+    <p>🎶 Enjoy listening!</p>
+</footer>
+
+</body>
+</html>
