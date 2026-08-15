@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Math Formula Book</title>
+</head>
+<body>
+
+<h1>🧮 Math Formula Book</h1>
+
+<h2>Area of Circle</h2>
+
+<p>
+A = πr<sup>2</sup>
+</p>
+
+<h2>Square</h2>
+
+<p>
+A = a<sup>2</sup>
+</p>
+
+<h2>Water Formula</h2>
+
+<p>
+H<sub>2</sub>O
+</p>
+
+<h2>Carbon Dioxide</h2>
+
+<p>
+CO<sub>2</sub>
+</p>
+
+<h2>Einstein's Famous Equation</h2>
+
+<p>
+E = mc<sup>2</sup>
+</p>
+
+</body>
+</html>
