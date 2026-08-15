@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tech Abbreviations</title>
+</head>
+<body>
+
+<h1>🔤 Technology Abbreviations</h1>
+
+<p>
+    <abbr title="HyperText Markup Language">HTML</abbr>
+</p>
+
+<p>
+    <abbr title="Cascading Style Sheets">CSS</abbr>
+</p>
+
+<p>
+    <abbr title="JavaScript">JS</abbr>
+</p>
+
+<p>
+    <abbr title="Application Programming Interface">API</abbr>
+</p>
+
+<p>
+    <abbr title="Structured Query Language">SQL</abbr>
+</p>
+
+<p>
+    <abbr title="Representational State Transfer">REST</abbr>
+</p>
+
+<p>
+    <abbr title="Uniform Resource Locator">URL</abbr>
+</p>
+
+<hr>
+
+<p>
+    💡 Move your mouse over an abbreviation to see its meaning.
+</p>
+
+</body>
+</html>
