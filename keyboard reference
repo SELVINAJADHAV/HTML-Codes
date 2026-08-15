@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keyboard Reference</title>
+</head>
+<body>
+
+<h1>⌨️ Keyboard Key Reference</h1>
+
+<h2>Common Keys</h2>
+
+<ul>
+
+<li>
+Copy: <kbd>Ctrl</kbd> + <kbd>C</kbd>
+</li>
+
+<li>
+Paste: <kbd>Ctrl</kbd> + <kbd>V</kbd>
+</li>
+
+<li>
+Save: <kbd>Ctrl</kbd> + <kbd>S</kbd>
+</li>
+
+<li>
+Undo: <kbd>Ctrl</kbd> + <kbd>Z</kbd>
+</li>
+
+<li>
+Find: <kbd>Ctrl</kbd> + <kbd>F</kbd>
+</li>
+
+</ul>
+
+<h2>Developer Shortcuts</h2>
+
+<p>
+Open developer tools:
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
+</p>
+
+</body>
+</html>
