@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Learning Hub</title>
+</head>
+<body>
+
+<header>
+    <h1>📺 My Learning Hub</h1>
+</header>
+
+<hr>
+
+<h2>HTML Learning</h2>
+
+<iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/UB1O30fR-EE"
+    title="HTML Learning">
+</iframe>
+
+<h2>Programming Learning</h2>
+
+<iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/zOjov-2OZ0E"
+    title="Programming Learning">
+</iframe>
+
+</body>
+</html>
