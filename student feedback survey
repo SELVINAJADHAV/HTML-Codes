@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Feedback Survey</title>
+</head>
+<body>
+
+<h1>📝 Student Feedback Survey</h1>
+
+<form>
+
+<fieldset>
+
+<legend>Basic Information</legend>
+
+<label>Name:</label>
+<input type="text">
+
+<br><br>
+
+<label>Course:</label>
+<input type="text">
+
+<br><br>
+
+<label>Year:</label>
+
+<select>
+    <option>First Year</option>
+    <option>Second Year</option>
+    <option>Third Year</option>
+</select>
+
+</fieldset>
+
+<br>
+
+<fieldset>
+
+<legend>Feedback</legend>
+
+<p>How was your learning experience?</p>
+
+<label>
+<input type="radio" name="experience">
+Excellent
+</label>
+
+<label>
+<input type="radio" name="experience">
+Good
+</label>
+
+<label>
+<input type="radio" name="experience">
+Average
+</label>
+
+<p>What did you enjoy?</p>
+
+<label>
+<input type="checkbox">
+Practical Work
+</label>
+
+<label>
+<input type="checkbox">
+Lectures
+</label>
+
+<label>
+<input type="checkbox">
+Projects
+</label>
+
+<br><br>
+
+<textarea
+    rows="5"
+    cols="50"
+    placeholder="Write your suggestions">
+</textarea>
+
+</fieldset>
+
+<br>
+
+<button type="submit">Submit Feedback</button>
+
+</form>
+
+</body>
+</html>
