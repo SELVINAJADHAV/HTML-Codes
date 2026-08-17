@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Programming Quiz</title>
+</head>
+<body>
+
+<h1>🧠 Programming Quiz</h1>
+
+<form>
+
+<h2>Question 1</h2>
+
+<p>Which language is mainly used to structure webpages?</p>
+
+<label>
+<input type="radio" name="q1">
+HTML
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="q1">
+Python
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="q1">
+SQL
+</label>
+
+<h2>Question 2</h2>
+
+<p>Which language is commonly used for webpage styling?</p>
+
+<label>
+<input type="radio" name="q2">
+CSS
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="q2">
+C
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="q2">
+SQL
+</label>
+
+<h2>Question 3</h2>
+
+<p>Select programming languages:</p>
+
+<label>
+<input type="checkbox">
+Python
+</label>
+
+<label>
+<input type="checkbox">
+C
+</label>
+
+<label>
+<input type="checkbox">
+HTML
+</label>
+
+<br><br>
+
+<button type="submit">Finish Quiz</button>
+
+</form>
+
+</body>
+</html>
