@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Survey</title>
+</head>
+<body>
+
+<h1>✈️ Travel Preference Survey</h1>
+
+<form>
+
+<label>Your Name:</label>
+<input type="text">
+
+<br><br>
+
+<label>Favorite Destination:</label>
+<input type="text">
+
+<h2>Preferred Transport</h2>
+
+<label>
+<input type="radio" name="transport">
+Flight
+</label>
+
+<label>
+<input type="radio" name="transport">
+Train
+</label>
+
+<label>
+<input type="radio" name="transport">
+Bus
+</label>
+
+<h2>What do you enjoy?</h2>
+
+<label>
+<input type="checkbox">
+Nature
+</label>
+
+<label>
+<input type="checkbox">
+History
+</label>
+
+<label>
+<input type="checkbox">
+Adventure
+</label>
+
+<label>
+<input type="checkbox">
+Food
+</label>
+
+<br><br>
+
+<label>Travel Date:</label>
+<input type="date">
+
+<br><br>
+
+<button type="submit">Submit Survey</button>
+
+</form>
+
+</body>
+</html>
