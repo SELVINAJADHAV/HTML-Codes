@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Admission</title>
+</head>
+<body>
+
+<h1>🎓 College Admission Form</h1>
+
+<form>
+
+<fieldset>
+
+<legend>Personal Details</legend>
+
+<label>Full Name:</label>
+<input type="text" required>
+
+<br><br>
+
+<label>Date of Birth:</label>
+<input type="date">
+
+<br><br>
+
+<label>Email:</label>
+<input type="email">
+
+<br><br>
+
+<label>Phone:</label>
+<input type="tel">
+
+</fieldset>
+
+<br>
+
+<fieldset>
+
+<legend>Academic Details</legend>
+
+<label>Previous Qualification:</label>
+
+<select>
+    <option>10th</option>
+    <option>12th</option>
+    <option>Diploma</option>
+</select>
+
+<br><br>
+
+<label>Percentage:</label>
+<input type="number" min="0" max="100">
+
+<br><br>
+
+<label>Preferred Course:</label>
+
+<input list="courses">
+
+<datalist id="courses">
+    <option value="Computer Science">
+    <option value="Information Technology">
+    <option value="Commerce">
+    <option value="Arts">
+</datalist>
+
+</fieldset>
+
+<br>
+
+<button type="submit">Apply</button>
+
+</form>
+
+</body>
+</html>
