@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customer Support</title>
+</head>
+<body>
+
+<h1>🎧 Customer Support Center</h1>
+
+<form>
+
+<label>Name:</label>
+<input type="text">
+
+<br><br>
+
+<label>Email:</label>
+<input type="email">
+
+<br><br>
+
+<label>Issue Category:</label>
+
+<select>
+
+<option>Account</option>
+<option>Payment</option>
+<option>Technical Issue</option>
+<option>Website Problem</option>
+<option>Other</option>
+
+</select>
+
+<br><br>
+
+<label>Priority:</label>
+
+<select>
+
+<option>Low</option>
+<option>Medium</option>
+<option>High</option>
+
+</select>
+
+<br><br>
+
+<label>Describe your issue:</label>
+
+<br>
+
+<textarea rows="8" cols="50"></textarea>
+
+<br><br>
+
+<button type="submit">Create Support Request</button>
+
+</form>
+
+</body>
+</html>
