@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Feedback</title>
+</head>
+<body>
+
+<h1>💬 Product Feedback</h1>
+
+<form>
+
+<fieldset>
+
+<legend>Product Information</legend>
+
+<label>Product Name:</label>
+<input type="text">
+
+<br><br>
+
+<label>Purchase Date:</label>
+<input type="date">
+
+</fieldset>
+
+<br>
+
+<fieldset>
+
+<legend>Your Experience</legend>
+
+<p>How satisfied are you?</p>
+
+<select>
+
+<option>Very Satisfied</option>
+<option>Satisfied</option>
+<option>Neutral</option>
+<option>Unsatisfied</option>
+
+</select>
+
+<p>What did you like?</p>
+
+<label>
+<input type="checkbox">
+Design
+</label>
+
+<label>
+<input type="checkbox">
+Features
+</label>
+
+<label>
+<input type="checkbox">
+Price
+</label>
+
+<label>
+<input type="checkbox">
+Performance
+</label>
+
+<br><br>
+
+<label>Additional Comments:</label>
+
+<br>
+
+<textarea rows="6" cols="50"></textarea>
+
+</fieldset>
+
+<br>
+
+<button type="submit">Send Feedback</button>
+
+</form>
+
+</body>
+</html>
