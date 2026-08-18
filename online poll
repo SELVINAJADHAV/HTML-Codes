@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Poll</title>
+</head>
+<body>
+
+<h1>📊 Online Poll</h1>
+
+<h2>Which technology would you like to learn next?</h2>
+
+<form>
+
+<label>
+<input type="radio" name="technology">
+JavaScript
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="technology">
+Python
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="technology">
+React
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="technology">
+Database
+</label>
+
+<br>
+
+<label>
+<input type="radio" name="technology">
+Cloud Computing
+</label>
+
+<br><br>
+
+<button type="submit">Vote</button>
+
+</form>
+
+</body>
+</html>
