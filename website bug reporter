@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bug Reporter</title>
+</head>
+<body>
+
+<h1>🐞 Website Bug Reporter</h1>
+
+<form>
+
+<label>Your Name:</label>
+<input type="text">
+
+<br><br>
+
+<label>Website:</label>
+<input type="url">
+
+<br><br>
+
+<label>Bug Type:</label>
+
+<select>
+
+<option>Broken Link</option>
+<option>Display Problem</option>
+<option>Form Problem</option>
+<option>Performance Problem</option>
+<option>Other</option>
+
+</select>
+
+<br><br>
+
+<label>When did you find it?</label>
+<input type="datetime-local">
+
+<br><br>
+
+<label>Describe the problem:</label>
+
+<br>
+
+<textarea
+    rows="7"
+    cols="50">
+</textarea>
+
+<br><br>
+
+<label>
+<input type="checkbox">
+I have checked the information.
+</label>
+
+<br><br>
+
+<button type="submit">Report Bug</button>
+
+</form>
+
+</body>
+</html>
