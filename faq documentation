@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FAQ Documentation</title>
+</head>
+<body>
+
+<header>
+    <h1>📚 Help Center</h1>
+    <p>Frequently asked questions and answers.</p>
+</header>
+
+<hr>
+
+<main>
+
+<h2>General Questions</h2>
+
+<details>
+    <summary>What is this website?</summary>
+    <p>This is a simple HTML documentation project.</p>
+</details>
+
+<br>
+
+<details>
+    <summary>How can I start learning HTML?</summary>
+    <p>Start with headings, paragraphs, links, images, lists and forms.</p>
+</details>
+
+<br>
+
+<details>
+    <summary>Do I need advanced software?</summary>
+    <p>No. A text editor and web browser are enough to begin.</p>
+</details>
+
+<h2>Technical Questions</h2>
+
+<details>
+    <summary>What is an HTML element?</summary>
+    <p>An HTML element is a building block of a webpage.</p>
+</details>
+
+<br>
+
+<details>
+    <summary>What is a tag?</summary>
+    <p>A tag tells the browser how content should be structured.</p>
+</details>
+
+</main>
+
+<hr>
+
+<footer>
+    <p>HTML Help Center © 2026</p>
+</footer>
+
+</body>
+</html>
