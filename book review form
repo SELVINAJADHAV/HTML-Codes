@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Book Review</title>
+</head>
+<body>
+
+<h1>📚 Book Review Form</h1>
+
+<form>
+
+<label>Book Title:</label>
+<input type="text">
+
+<br><br>
+
+<label>Author:</label>
+<input type="text">
+
+<br><br>
+
+<label>Reading Date:</label>
+<input type="date">
+
+<h2>Rating</h2>
+
+<label>
+<input type="radio" name="rating">
+⭐
+</label>
+
+<label>
+<input type="radio" name="rating">
+⭐⭐
+</label>
+
+<label>
+<input type="radio" name="rating">
+⭐⭐⭐
+</label>
+
+<label>
+<input type="radio" name="rating">
+⭐⭐⭐⭐
+</label>
+
+<label>
+<input type="radio" name="rating">
+⭐⭐⭐⭐⭐
+</label>
+
+<br><br>
+
+<label>Your Review:</label>
+
+<br>
+
+<textarea rows="7" cols="50"></textarea>
+
+<br><br>
+
+<button type="submit">Publish Review</button>
+
+</form>
+
+</body>
+</html>
