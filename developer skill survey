@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Developer Skill Survey</title>
+</head>
+<body>
+
+<h1>👨‍💻 Developer Skill Survey</h1>
+
+<form>
+
+<label>Developer Name:</label>
+<input type="text">
+
+<h2>Skills</h2>
+
+<label>
+<input type="checkbox">
+HTML
+</label>
+
+<label>
+<input type="checkbox">
+CSS
+</label>
+
+<label>
+<input type="checkbox">
+JavaScript
+</label>
+
+<label>
+<input type="checkbox">
+Python
+</label>
+
+<label>
+<input type="checkbox">
+C
+</label>
+
+<label>
+<input type="checkbox">
+SQL
+</label>
+
+<h2>Experience Level</h2>
+
+<select>
+
+<option>Beginner</option>
+<option>Intermediate</option>
+<option>Advanced</option>
+
+</select>
+
+<h2>Favorite Technology</h2>
+
+<input list="technologies">
+
+<datalist id="technologies">
+
+<option value="HTML">
+<option value="CSS">
+<option value="JavaScript">
+<option value="Python">
+<option value="React">
+
+</datalist>
+
+<br><br>
+
+<button type="submit">Submit</button>
+
+</form>
+
+</body>
+</html>
