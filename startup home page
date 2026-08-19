@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Startup Homepage</title>
+</head>
+<body>
+
+<header>
+
+<h1>🚀 NovaTech</h1>
+
+<nav>
+    <a href="#home">Home</a> |
+    <a href="#services">Services</a> |
+    <a href="#team">Team</a> |
+    <a href="#contact">Contact</a>
+</nav>
+
+</header>
+
+<hr>
+
+<main>
+
+<section id="home">
+    <h2>Building Ideas for Tomorrow</h2>
+    <p>
+        NovaTech is a fictional technology startup concept.
+    </p>
+</section>
+
+<section id="services">
+
+<h2>Our Services</h2>
+
+<ul>
+    <li>Web Development</li>
+    <li>Software Solutions</li>
+    <li>Digital Products</li>
+</ul>
+
+</section>
+
+<section id="team">
+
+<h2>Our Team</h2>
+
+<article>
+    <h3>Product Team</h3>
+    <p>Creates useful digital products.</p>
+</article>
+
+<article>
+    <h3>Development Team</h3>
+    <p>Builds and tests applications.</p>
+</article>
+
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>hello@novatech.example</p>
+</section>
+
+</main>
+
+<footer>
+    <p>NovaTech © 2026</p>
+</footer>
+
+</body>
+</html>
