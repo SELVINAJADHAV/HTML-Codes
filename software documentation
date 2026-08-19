@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Software Documentation</title>
+</head>
+<body>
+
+<header>
+    <h1>💻 My Software Documentation</h1>
+    <p>Version 1.0</p>
+</header>
+
+<nav>
+    <a href="#overview">Overview</a> |
+    <a href="#features">Features</a> |
+    <a href="#requirements">Requirements</a> |
+    <a href="#installation">Installation</a>
+</nav>
+
+<hr>
+
+<main>
+
+<section id="overview">
+    <h2>Overview</h2>
+    <p>
+        This project demonstrates how software documentation
+        can be organized using HTML.
+    </p>
+</section>
+
+<section id="features">
+    <h2>Features</h2>
+    <ul>
+        <li>Simple interface</li>
+        <li>Easy navigation</li>
+        <li>Beginner friendly</li>
+    </ul>
+</section>
+
+<section id="requirements">
+    <h2>Requirements</h2>
+    <ul>
+        <li>Web browser</li>
+        <li>Text editor</li>
+        <li>Basic HTML knowledge</li>
+    </ul>
+</section>
+
+<section id="installation">
+    <h2>Installation</h2>
+    <ol>
+        <li>Download the project.</li>
+        <li>Open the HTML file.</li>
+        <li>Run it in a browser.</li>
+    </ol>
+</section>
+
+</main>
+
+<footer>
+    <p>Documentation Version 1.0</p>
+</footer>
+
+</body>
+</html>
