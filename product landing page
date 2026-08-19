@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Landing Page</title>
+</head>
+<body>
+
+<header>
+    <h1>✨ SmartNote</h1>
+    <p>Organize your ideas in one place.</p>
+
+    <nav>
+        <a href="#features">Features</a> |
+        <a href="#about">About</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<hr>
+
+<main>
+
+<section>
+    <h2>Turn Ideas Into Action</h2>
+    <p>
+        SmartNote is a fictional productivity application
+        designed for students and creators.
+    </p>
+
+    <button>Get Started</button>
+</section>
+
+<section id="features">
+    <h2>🚀 Features</h2>
+
+    <ul>
+        <li>Quick Notes</li>
+        <li>Task Organization</li>
+        <li>Search</li>
+        <li>Simple Interface</li>
+    </ul>
+</section>
+
+<section id="about">
+    <h2>About SmartNote</h2>
+    <p>
+        A practice landing page created entirely with HTML.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: hello@example.com</p>
+</section>
+
+</main>
+
+<footer>
+    <p>SmartNote © 2026</p>
+</footer>
+
+</body>
+</html>
