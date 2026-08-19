@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API Documentation</title>
+</head>
+<body>
+
+<header>
+    <h1>🔌 Simple API Documentation</h1>
+    <p>Developer reference</p>
+</header>
+
+<hr>
+
+<h2>GET /users</h2>
+
+<p>Returns a list of users.</p>
+
+<h3>Example Request</h3>
+
+<pre>
+<code>
+GET /users
+</code>
+</pre>
+
+<h3>Example Response</h3>
+
+<pre>
+<code>
+{
+    "id": 1,
+    "name": "Alex"
+}
+</code>
+</pre>
+
+<hr>
+
+<h2>POST /users</h2>
+
+<p>Creates a new user.</p>
+
+<h3>Example Request</h3>
+
+<pre>
+<code>
+POST /users
+
+{
+    "name": "Alex"
+}
+</code>
+</pre>
+
+<footer>
+    <p>API Documentation v1.0</p>
+</footer>
+
+</body>
+</html>
