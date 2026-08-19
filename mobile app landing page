@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mobile App Landing Page</title>
+</head>
+<body>
+
+<header>
+    <h1>📱 StudyFlow</h1>
+    <p>Your study companion.</p>
+</header>
+
+<hr>
+
+<main>
+
+<section>
+    <h2>Study Smarter</h2>
+    <p>
+        StudyFlow helps students organize their learning,
+        notes and daily goals.
+    </p>
+
+    <a href="#">Download App</a>
+</section>
+
+<hr>
+
+<section>
+    <h2>⭐ App Features</h2>
+
+    <article>
+        <h3>📖 Notes</h3>
+        <p>Keep your study notes organized.</p>
+    </article>
+
+    <article>
+        <h3>🎯 Goals</h3>
+        <p>Set learning goals and track your progress.</p>
+    </article>
+
+    <article>
+        <h3>⏰ Reminders</h3>
+        <p>Remember important study sessions.</p>
+    </article>
+
+</section>
+
+</main>
+
+<footer>
+    <p>StudyFlow — Student App Concept</p>
+</footer>
+
+</body>
+</html>
