@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Project Changelog</title>
+</head>
+<body>
+
+<h1>🔄 Project Changelog</h1>
+
+<p>History of project updates.</p>
+
+<hr>
+
+<section>
+
+<h2>v1.3.0</h2>
+
+<ul>
+    <li>Added new documentation.</li>
+    <li>Improved project structure.</li>
+    <li>Updated examples.</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>v1.2.0</h2>
+
+<ul>
+    <li>Added new features.</li>
+    <li>Improved navigation.</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>v1.1.0</h2>
+
+<ul>
+    <li>Fixed minor issues.</li>
+    <li>Updated content.</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>v1.0.0</h2>
+
+<ul>
+    <li>Initial project release.</li>
+</ul>
+
+</section>
+
+<footer>
+    <hr>
+    <p>Last updated: 2026</p>
+</footer>
+
+</body>
+</html>
