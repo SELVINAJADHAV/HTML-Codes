@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Release Notes</title>
+</head>
+<body>
+
+<header>
+    <h1>📦 Software Release Notes</h1>
+</header>
+
+<hr>
+
+<article>
+
+<h2>Version 2.0</h2>
+
+<p>
+<time datetime="2026-08-18">August 18, 2026</time>
+</p>
+
+<h3>✨ New Features</h3>
+
+<ul>
+    <li>New dashboard</li>
+    <li>Improved navigation</li>
+    <li>New search feature</li>
+</ul>
+
+<h3>🐛 Bug Fixes</h3>
+
+<ul>
+    <li>Fixed navigation issue</li>
+    <li>Fixed display problems</li>
+</ul>
+
+</article>
+
+<hr>
+
+<article>
+
+<h2>Version 1.0</h2>
+
+<p>
+<time datetime="2026-07-01">July 1, 2026</time>
+</p>
+
+<p>
+Initial release of the project.
+</p>
+
+</article>
+
+</body>
+</html>
