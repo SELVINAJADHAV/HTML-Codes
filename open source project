@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Open Source Project</title>
+</head>
+<body>
+
+<header>
+
+<h1>🌐 OpenStudy</h1>
+
+<p>
+An imaginary open-source learning project.
+</p>
+
+</header>
+
+<hr>
+
+<h2>📌 About</h2>
+
+<p>
+OpenStudy is a practice project designed to demonstrate
+how an open-source project page could be structured.
+</p>
+
+<h2>✨ Features</h2>
+
+<ul>
+    <li>Learning resources</li>
+    <li>Student notes</li>
+    <li>Community contributions</li>
+</ul>
+
+<h2>🤝 Contributing</h2>
+
+<ol>
+    <li>Fork the project.</li>
+    <li>Create your changes.</li>
+    <li>Test your work.</li>
+    <li>Submit your contribution.</li>
+</ol>
+
+<h2>📄 License</h2>
+
+<p>
+This is a fictional educational project.
+</p>
+
+</body>
+</html>
