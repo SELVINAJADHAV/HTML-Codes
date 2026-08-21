@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tech Event Schedule</title>
+</head>
+<body>
+
+<header>
+    <h1>💻 TechFest 2026</h1>
+    <p>Annual Technology & Innovation Event</p>
+</header>
+
+<hr>
+
+<main>
+
+<h2>📅 Event Schedule</h2>
+
+<table border="1" cellpadding="12">
+
+<tr>
+    <th>Time</th>
+    <th>Event</th>
+    <th>Speaker</th>
+    <th>Venue</th>
+</tr>
+
+<tr>
+    <td><time>09:00 AM</time></td>
+    <td>Opening Ceremony</td>
+    <td>Event Team</td>
+    <td>Main Hall</td>
+</tr>
+
+<tr>
+    <td><time>10:00 AM</time></td>
+    <td>Future of Technology</td>
+    <td>Guest Speaker</td>
+    <td>Hall A</td>
+</tr>
+
+<tr>
+    <td><time>12:00 PM</time></td>
+    <td>Lunch Break</td>
+    <td>---</td>
+    <td>Cafeteria</td>
+</tr>
+
+<tr>
+    <td><time>02:00 PM</time></td>
+    <td>Coding Workshop</td>
+    <td>Developer Team</td>
+    <td>Lab 1</td>
+</tr>
+
+<tr>
+    <td><time>04:00 PM</time></td>
+    <td>Project Showcase</td>
+    <td>Students</td>
+    <td>Main Hall</td>
+</tr>
+
+</table>
+
+<h2>🎯 Event Goal</h2>
+
+<p>
+Bring students together to learn, create and share
+technology ideas.
+</p>
+
+</main>
+
+<footer>
+    <hr>
+    <p>TechFest 2026 ©</p>
+</footer>
+
+</body>
+</html>
