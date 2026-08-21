@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Coding Challenge</title>
+</head>
+<body>
+
+<h1>🧩 Daily Coding Challenge</h1>
+
+<p>
+Complete the challenge and improve your programming skills.
+</p>
+
+<hr>
+
+<h2>Challenge #01</h2>
+
+<p>
+Write a program that prints "Hello World".
+</p>
+
+<h3>Difficulty</h3>
+
+<meter min="0" max="10" value="3"></meter>
+
+<p>Easy</p>
+
+<h3>Your Answer</h3>
+
+<textarea
+    rows="10"
+    cols="60"
+    placeholder="Write your solution here...">
+</textarea>
+
+<br><br>
+
+<button>Submit Solution</button>
+
+</body>
+</html>
