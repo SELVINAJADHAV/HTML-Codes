@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Project Documentation</title>
+</head>
+<body>
+
+<header>
+    <h1>📖 Project Documentation</h1>
+    <p>Personal Learning Project</p>
+</header>
+
+<hr>
+
+<section>
+
+<h2>1. Project Overview</h2>
+
+<p>
+This project was created as part of my programming
+learning journey.
+</p>
+
+</section>
+
+<section>
+
+<h2>2. Objectives</h2>
+
+<ul>
+    <li>Practice HTML</li>
+    <li>Understand webpage structure</li>
+    <li>Learn semantic elements</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>3. Technologies</h2>
+
+<ul>
+    <li>HTML5</li>
+    <li>Web Browser</li>
+    <li>Visual Studio Code</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>4. Future Improvements</h2>
+
+<ol>
+    <li>Add CSS</li>
+    <li>Add JavaScript</li>
+    <li>Add responsive design</li>
+</ol>
+
+</section>
+
+</body>
+</html>
