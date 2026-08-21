@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Programming Notes</title>
+</head>
+<body>
+
+<h1>📝 My Programming Notes</h1>
+
+<details>
+    <summary>What is a variable?</summary>
+    <p>
+        A variable is a named location used to store data.
+    </p>
+</details>
+
+<br>
+
+<details>
+    <summary>What is a loop?</summary>
+    <p>
+        A loop repeats a block of instructions.
+    </p>
+</details>
+
+<br>
+
+<details>
+    <summary>What is a function?</summary>
+    <p>
+        A function is a reusable block of code.
+    </p>
+</details>
+
+<br>
+
+<details>
+    <summary>What is an algorithm?</summary>
+    <p>
+        An algorithm is a sequence of steps used to solve
+        a problem.
+    </p>
+</details>
+
+</body>
+</html>
