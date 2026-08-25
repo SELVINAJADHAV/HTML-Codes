@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Science Experiment</title>
+</head>
+<body>
+
+<header>
+    <h1>🧪 Science Experiment Report</h1>
+    <p>Educational HTML Project</p>
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🔬 Experiment Title</h2>
+
+    <p>
+        Observing the Effect of Temperature on Water
+        Evaporation.
+    </p>
+
+</section>
+
+<section>
+
+    <h2>🎯 Objective</h2>
+
+    <p>
+        To observe how temperature can affect the rate
+        at which water evaporates.
+    </p>
+
+</section>
+
+<section>
+
+    <h2>🧰 Materials</h2>
+
+    <ul>
+        <li>Two containers</li>
+        <li>Water</li>
+        <li>Measuring cup</li>
+        <li>Timer</li>
+        <li>Thermometer</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>📋 Procedure</h2>
+
+    <ol>
+        <li>Fill two containers with equal amounts of water.</li>
+        <li>Place them under different conditions.</li>
+        <li>Observe them for a fixed period.</li>
+        <li>Record the observations.</li>
+    </ol>
+
+</section>
+
+<section>
+
+    <h2>📊 Observation</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Condition</th>
+            <th>Initial Amount</th>
+            <th>Final Amount</th>
+        </tr>
+
+        <tr>
+            <td>Room Temperature</td>
+            <td>100 ml</td>
+            <td>90 ml</td>
+        </tr>
+
+        <tr>
+            <td>Warm Environment</td>
+            <td>100 ml</td>
+            <td>75 ml</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<section>
+
+    <h2>📝 Conclusion</h2>
+
+    <p>
+        The sample observation suggests that temperature
+        can influence evaporation.
+    </p>
+
+</section>
+
+</main>
+
+</body>
+</html>
