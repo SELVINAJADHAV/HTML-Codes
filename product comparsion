@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Comparison</title>
+</head>
+<body>
+
+<header>
+    <h1>🛍️ Product Comparison</h1>
+    <p>Compare products before choosing one.</p>
+</header>
+
+<hr>
+
+<main>
+
+<h2>💻 Laptop Comparison</h2>
+
+<table border="1" cellpadding="12">
+
+<tr>
+    <th>Feature</th>
+    <th>Laptop A</th>
+    <th>Laptop B</th>
+    <th>Laptop C</th>
+</tr>
+
+<tr>
+    <td>Processor</td>
+    <td>Core i3</td>
+    <td>Core i5</td>
+    <td>Ryzen 5</td>
+</tr>
+
+<tr>
+    <td>RAM</td>
+    <td>8 GB</td>
+    <td>16 GB</td>
+    <td>16 GB</td>
+</tr>
+
+<tr>
+    <td>Storage</td>
+    <td>256 GB</td>
+    <td>512 GB</td>
+    <td>512 GB</td>
+</tr>
+
+<tr>
+    <td>Display</td>
+    <td>14 inch</td>
+    <td>15.6 inch</td>
+    <td>15.6 inch</td>
+</tr>
+
+<tr>
+    <td>Best For</td>
+    <td>Basic Work</td>
+    <td>Programming</td>
+    <td>Programming</td>
+</tr>
+
+</table>
+
+<h2>⭐ My Choice</h2>
+
+<p>
+Laptop B offers a good balance of memory and storage
+for programming practice.
+</p>
+
+</main>
+
+</body>
+</html>
