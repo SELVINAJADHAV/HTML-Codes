@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Encyclopedia</title>
+</head>
+<body>
+
+<header>
+
+    <h1>🎮 Game Encyclopedia</h1>
+
+    <p>
+        A fictional encyclopedia for discovering
+        different types of games.
+    </p>
+
+</header>
+
+<hr>
+
+<nav>
+
+    <a href="#action">Action</a> |
+    <a href="#puzzle">Puzzle</a> |
+    <a href="#adventure">Adventure</a> |
+    <a href="#strategy">Strategy</a>
+
+</nav>
+
+<hr>
+
+<main>
+
+<section id="action">
+
+    <h2>⚔️ Action Games</h2>
+
+    <p>
+        Action games generally focus on movement,
+        challenges and quick decision-making.
+    </p>
+
+    <ul>
+        <li>Combat Adventures</li>
+        <li>Platform Games</li>
+        <li>Arcade Games</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section id="puzzle">
+
+    <h2>🧩 Puzzle Games</h2>
+
+    <p>
+        Puzzle games challenge players to solve
+        problems using logic and observation.
+    </p>
+
+    <ul>
+        <li>Logic Puzzles</li>
+        <li>Number Puzzles</li>
+        <li>Word Puzzles</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section id="adventure">
+
+    <h2>🗺️ Adventure Games</h2>
+
+    <p>
+        Adventure games focus on exploration,
+        discovery and storytelling.
+    </p>
+
+    <ul>
+        <li>Exploration</li>
+        <li>Story Adventures</li>
+        <li>Mystery Adventures</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section id="strategy">
+
+    <h2>♟️ Strategy Games</h2>
+
+    <p>
+        Strategy games require planning and
+        decision-making.
+    </p>
+
+    <ul>
+        <li>Board Strategy</li>
+        <li>Resource Management</li>
+        <li>Turn-Based Strategy</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>⭐ Game Rating Example</h2>
+
+    <p>Gameplay:</p>
+    <meter min="0" max="10" value="8"></meter>
+
+    <p>Story:</p>
+    <meter min="0" max="10" value="9"></meter>
+
+    <p>Difficulty:</p>
+    <meter min="0" max="10" value="6"></meter>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Game Encyclopedia © 2026</p>
+</footer>
+
+</body>
+</html>
