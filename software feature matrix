@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Software Feature Matrix</title>
+</head>
+<body>
+
+<header>
+    <h1>🧾 Software Feature Matrix</h1>
+    <p>Compare features between different software plans.</p>
+</header>
+
+<hr>
+
+<main>
+
+<table border="1" cellpadding="12">
+
+<tr>
+    <th>Feature</th>
+    <th>Free</th>
+    <th>Student</th>
+    <th>Professional</th>
+</tr>
+
+<tr>
+    <td>Basic Tools</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+</tr>
+
+<tr>
+    <td>Cloud Storage</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>✅</td>
+</tr>
+
+<tr>
+    <td>Advanced Tools</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+</tr>
+
+<tr>
+    <td>Priority Support</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+</tr>
+
+<tr>
+    <td>Team Collaboration</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>✅</td>
+</tr>
+
+</table>
+
+<h2>📌 Plan Summary</h2>
+
+<dl>
+
+<dt><strong>Free</strong></dt>
+<dd>Good for beginners.</dd>
+
+<dt><strong>Student</strong></dt>
+<dd>Designed for learning and projects.</dd>
+
+<dt><strong>Professional</strong></dt>
+<dd>Designed for advanced users.</dd>
+
+</dl>
+
+</main>
+
+</body>
+</html>
