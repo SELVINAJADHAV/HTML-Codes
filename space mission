@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Mission</title>
+</head>
+<body>
+
+<header>
+    <h1>🛰️ Mission Orion</h1>
+    <p>Exploring the possibilities beyond Earth.</p>
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🌌 Mission Overview</h2>
+
+    <p>
+        Mission Orion is a fictional space exploration
+        project created as an HTML learning project.
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🚀 Mission Timeline</h2>
+
+    <ol>
+
+        <li>
+            <strong>Launch</strong>
+            <p>Rocket launches from Earth.</p>
+        </li>
+
+        <li>
+            <strong>Orbit</strong>
+            <p>The spacecraft enters its planned orbit.</p>
+        </li>
+
+        <li>
+            <strong>Research</strong>
+            <p>Scientific instruments begin collecting data.</p>
+        </li>
+
+        <li>
+            <strong>Return</strong>
+            <p>The spacecraft begins its journey home.</p>
+        </li>
+
+    </ol>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📊 Mission Status</h2>
+
+    <p>Preparation</p>
+    <progress value="100" max="100"></progress>
+
+    <p>Launch Preparation</p>
+    <progress value="80" max="100"></progress>
+
+    <p>Research</p>
+    <progress value="45" max="100"></progress>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🧑‍🚀 Crew</h2>
+
+    <ul>
+        <li>Mission Commander</li>
+        <li>Flight Engineer</li>
+        <li>Science Specialist</li>
+        <li>Communication Officer</li>
+    </ul>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Mission Orion — Educational HTML Project</p>
+</footer>
+
+</body>
+</html>
