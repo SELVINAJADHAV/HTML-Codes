@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Workshop</title>
+</head>
+<body>
+
+<header>
+    <h1>🧑‍🏫 Web Development Workshop</h1>
+    <p>Learn • Practice • Build</p>
+
+    <nav>
+        <a href="#about">About</a> |
+        <a href="#schedule">Schedule</a> |
+        <a href="#requirements">Requirements</a> |
+        <a href="#register">Register</a>
+    </nav>
+</header>
+
+<hr>
+
+<main>
+
+<section id="about">
+    <h2>About the Workshop</h2>
+
+    <p>
+        A beginner-friendly workshop introducing students
+        to the fundamentals of web development.
+    </p>
+
+    <p>
+        <strong>Duration:</strong> 3 Hours
+    </p>
+
+    <p>
+        <strong>Mode:</strong> Online
+    </p>
+</section>
+
+<hr>
+
+<section id="schedule">
+    <h2>🕒 Workshop Schedule</h2>
+
+    <ol>
+        <li>Introduction to Web Development — 10:00 AM</li>
+        <li>HTML Fundamentals — 10:45 AM</li>
+        <li>Building a Webpage — 11:30 AM</li>
+        <li>Questions & Answers — 12:30 PM</li>
+    </ol>
+</section>
+
+<hr>
+
+<section id="requirements">
+    <h2>💻 Requirements</h2>
+
+    <ul>
+        <li>Laptop or computer</li>
+        <li>Internet connection</li>
+        <li>Text editor</li>
+        <li>Web browser</li>
+    </ul>
+</section>
+
+<hr>
+
+<section id="register">
+
+    <h2>📝 Workshop Registration</h2>
+
+    <form>
+
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" required>
+
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+
+        <br><br>
+
+        <label for="level">Experience:</label>
+
+        <select id="level">
+            <option>Beginner</option>
+            <option>Intermediate</option>
+            <option>Advanced</option>
+        </select>
+
+        <br><br>
+
+        <button type="submit">Register Now</button>
+
+    </form>
+
+</section>
+
+</main>
+
+<hr>
+
+<footer>
+    <p>Web Development Workshop © 2026</p>
+</footer>
+
+</body>
+</html>
