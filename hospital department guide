@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Department Guide</title>
+</head>
+<body>
+
+<header>
+
+    <h1>🏥 CityCare Hospital</h1>
+    <p>Department Information Guide</p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🩺 Departments</h2>
+
+    <details>
+        <summary>General Medicine</summary>
+
+        <p>
+            Provides general medical consultations
+            and routine healthcare services.
+        </p>
+    </details>
+
+    <br>
+
+    <details>
+        <summary>Cardiology</summary>
+
+        <p>
+            Department information for heart-related
+            healthcare services.
+        </p>
+    </details>
+
+    <br>
+
+    <details>
+        <summary>Orthopedics</summary>
+
+        <p>
+            Provides information about bone and
+            joint-related healthcare services.
+        </p>
+    </details>
+
+    <br>
+
+    <details>
+        <summary>Pediatrics</summary>
+
+        <p>
+            Healthcare information for children.
+        </p>
+    </details>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🕐 General Visiting Hours</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Day</th>
+            <th>Visiting Hours</th>
+        </tr>
+
+        <tr>
+            <td>Monday</td>
+            <td>4:00 PM – 6:00 PM</td>
+        </tr>
+
+        <tr>
+            <td>Wednesday</td>
+            <td>4:00 PM – 6:00 PM</td>
+        </tr>
+
+        <tr>
+            <td>Saturday</td>
+            <td>3:00 PM – 6:00 PM</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📞 Information Desk</h2>
+
+    <p>
+        Phone: 000-000-0000
+    </p>
+
+    <p>
+        Email: info@example.com
+    </p>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>CityCare Hospital — Sample Educational Project</p>
+</footer>
+
+</body>
+</html>
