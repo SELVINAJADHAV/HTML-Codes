@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Digital Magazine</title>
+</head>
+<body>
+
+<header>
+
+    <h1>📰 The Digital Student</h1>
+
+    <nav>
+        <a href="#technology">Technology</a> |
+        <a href="#education">Education</a> |
+        <a href="#future">Future</a>
+    </nav>
+
+</header>
+
+<hr>
+
+<main>
+
+<article>
+
+    <header>
+        <h2>💻 How Technology Is Changing Student Life</h2>
+
+        <p>
+            Published on
+            <time datetime="2026-08-25">August 25, 2026</time>
+        </p>
+    </header>
+
+    <figure>
+
+        <img
+            src="technology.jpg"
+            alt="Technology illustration"
+            width="400">
+
+        <figcaption>
+            Technology and modern education
+        </figcaption>
+
+    </figure>
+
+    <section id="technology">
+
+        <h3>Technology in Everyday Learning</h3>
+
+        <p>
+            Students can use computers, online resources
+            and digital tools to explore subjects beyond
+            the traditional classroom.
+        </p>
+
+    </section>
+
+    <section id="education">
+
+        <h3>Digital Education</h3>
+
+        <p>
+            Digital learning provides students with
+            different ways to access educational content.
+        </p>
+
+    </section>
+
+    <section id="future">
+
+        <h3>The Future</h3>
+
+        <p>
+            As technology develops, students will continue
+            discovering new ways to learn and create.
+        </p>
+
+    </section>
+
+</article>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>The Digital Student Magazine © 2026</p>
+
+</footer>
+
+</body>
+</html>
