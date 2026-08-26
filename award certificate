@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Achievement Certificate</title>
+</head>
+<body>
+
+<main>
+
+<section>
+
+    <h1>🏆 CERTIFICATE OF ACHIEVEMENT</h1>
+
+    <hr>
+
+    <p>
+        This certificate is proudly presented to
+    </p>
+
+    <h2>Alex Student</h2>
+
+    <p>
+        for successfully completing
+    </p>
+
+    <h3>100 Days of HTML Practice</h3>
+
+    <p>
+        demonstrating dedication, creativity and
+        consistent learning in web development.
+    </p>
+
+    <br>
+
+    <p>
+        <strong>Date:</strong>
+        <time datetime="2026-08-25">August 25, 2026</time>
+    </p>
+
+    <br><br>
+
+    <table>
+
+        <tr>
+            <td>
+                ____________________
+                <br>
+                Instructor
+            </td>
+
+            <td>
+                ____________________
+                <br>
+                Coordinator
+            </td>
+        </tr>
+
+    </table>
+
+</section>
+
+</main>
+
+</body>
+</html>
