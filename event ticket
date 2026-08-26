@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Ticket</title>
+</head>
+<body>
+
+<header>
+    <h1>🎟️ DIGITAL EVENT TICKET</h1>
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>TECH WAVE 2026</h2>
+
+    <p><strong>Ticket ID:</strong> TW-2026-1048</p>
+
+    <p><strong>Guest:</strong> Alex Student</p>
+
+    <p><strong>Date:</strong>
+        <time datetime="2026-09-15">15 September 2026</time>
+    </p>
+
+    <p><strong>Time:</strong> 10:00 AM</p>
+
+    <p><strong>Venue:</strong> City Convention Center</p>
+
+    <hr>
+
+    <h3>🎫 Ticket Type</h3>
+
+    <p>Student Pass</p>
+
+    <h3>📍 Entry Gate</h3>
+
+    <p>Gate 2</p>
+
+    <h3>💺 Seat</h3>
+
+    <p>A-24</p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📋 Event Rules</h2>
+
+    <ul>
+        <li>Bring your ticket.</li>
+        <li>Arrive 30 minutes early.</li>
+        <li>Follow venue instructions.</li>
+        <li>Keep the venue clean.</li>
+    </ul>
+
+</section>
+
+</main>
+
+<footer>
+    <p>Tech Wave 2026 ©</p>
+</footer>
+
+</body>
+</html>
