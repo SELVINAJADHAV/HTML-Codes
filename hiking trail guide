@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiking Trail Guide</title>
+</head>
+<body>
+
+<header>
+
+    <h1>🧭 Mountain Trail Guide</h1>
+
+    <p>
+        Explore a fictional beginner-friendly hiking route.
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🥾 Trail Information</h2>
+
+    <dl>
+
+        <dt><strong>Trail Name</strong></dt>
+        <dd>Sunrise Mountain Trail</dd>
+
+        <dt><strong>Distance</strong></dt>
+        <dd>6 kilometers</dd>
+
+        <dt><strong>Difficulty</strong></dt>
+        <dd>Moderate</dd>
+
+        <dt><strong>Estimated Time</strong></dt>
+        <dd>3 hours</dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🗺️ Trail Route</h2>
+
+    <ol>
+
+        <li>Starting Point</li>
+        <li>Forest Entrance</li>
+        <li>Waterfall View</li>
+        <li>Mountain Ridge</li>
+        <li>Sunrise Point</li>
+
+    </ol>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🎒 Recommended Items</h2>
+
+    <ul>
+        <li>Water bottle</li>
+        <li>Comfortable shoes</li>
+        <li>Small backpack</li>
+        <li>First-aid supplies</li>
+        <li>Weather-appropriate clothing</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>⚠️ Trail Notice</h2>
+
+    <p>
+        Check local conditions and follow official trail
+        guidance before starting any hike.
+    </p>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Mountain Trail Guide — HTML Project</p>
+</footer>
+
+</body>
+</html>
