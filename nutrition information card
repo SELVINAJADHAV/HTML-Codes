@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutrition Card</title>
+</head>
+
+<body>
+
+<header>
+    <h1>🍎 Apple Nutrition Card</h1>
+    <p>Simple nutritional information</p>
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🍏 Apple</h2>
+
+    <p>
+        Serving size:
+        <data value="100">100 grams</data>
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📊 Nutrition Facts</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Nutrient</th>
+            <th>Amount</th>
+        </tr>
+
+        <tr>
+            <td>Calories</td>
+            <td>52 kcal</td>
+        </tr>
+
+        <tr>
+            <td>Carbohydrates</td>
+            <td>14 g</td>
+        </tr>
+
+        <tr>
+            <td>Protein</td>
+            <td>0.3 g</td>
+        </tr>
+
+        <tr>
+            <td>Fat</td>
+            <td>0.2 g</td>
+        </tr>
+
+        <tr>
+            <td>Fiber</td>
+            <td>2.4 g</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>💧 Water Content</h2>
+
+    <meter
+        min="0"
+        max="100"
+        value="86">
+    </meter>
+
+    <p>Approximately 86% water</p>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Nutrition Card — Educational Project</p>
+</footer>
+
+</body>
+</html>
