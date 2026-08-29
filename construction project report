@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Construction Project Report</title>
+</head>
+<body>
+
+<header>
+
+    <h1>🏗️ Community Center Project</h1>
+
+    <p>
+        Project progress report
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>📋 Project Details</h2>
+
+    <dl>
+
+        <dt><strong>Project Name</strong></dt>
+        <dd>Community Learning Center</dd>
+
+        <dt><strong>Project Type</strong></dt>
+        <dd>Public Facility</dd>
+
+        <dt><strong>Project Status</strong></dt>
+        <dd>Under Development</dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📊 Development Progress</h2>
+
+    <p>Planning</p>
+    <progress value="100" max="100"></progress>
+
+    <p>Design</p>
+    <progress value="90" max="100"></progress>
+
+    <p>Construction</p>
+    <progress value="60" max="100"></progress>
+
+    <p>Final Inspection</p>
+    <progress value="10" max="100"></progress>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📅 Project Milestones</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Milestone</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td>Site Planning</td>
+            <td>Completed</td>
+        </tr>
+
+        <tr>
+            <td>Architectural Design</td>
+            <td>Completed</td>
+        </tr>
+
+        <tr>
+            <td>Main Construction</td>
+            <td>In Progress</td>
+        </tr>
+
+        <tr>
+            <td>Final Inspection</td>
+            <td>Pending</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🎯 Project Goal</h2>
+
+    <p>
+        Create a community space for education,
+        workshops and local activities.
+    </p>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Community Center Project — Sample HTML Report</p>
+</footer>
+
+</body>
+</html>
