@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Paper</title>
+</head>
+<body>
+
+<header>
+
+    <h1>📄 Student Research Paper</h1>
+
+    <p>
+        <strong>Topic:</strong>
+        The Role of Technology in Education
+    </p>
+
+    <p>
+        <strong>Author:</strong>
+        Student Researcher
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>Abstract</h2>
+
+    <p>
+        This sample research page explores how digital
+        technology can support modern education and
+        student learning.
+    </p>
+
+</section>
+
+<section>
+
+    <h2>1. Introduction</h2>
+
+    <p>
+        Technology has become an important part of
+        education. Digital tools provide students with
+        additional ways to access information.
+    </p>
+
+</section>
+
+<section>
+
+    <h2>2. Research Questions</h2>
+
+    <ol>
+        <li>How can technology support learning?</li>
+        <li>What digital tools can students use?</li>
+        <li>What challenges can occur?</li>
+    </ol>
+
+</section>
+
+<section>
+
+    <h2>3. Key Findings</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Area</th>
+            <th>Observation</th>
+        </tr>
+
+        <tr>
+            <td>Access</td>
+            <td>Digital resources can provide additional learning material.</td>
+        </tr>
+
+        <tr>
+            <td>Communication</td>
+            <td>Online tools can support communication.</td>
+        </tr>
+
+        <tr>
+            <td>Practice</td>
+            <td>Interactive resources can provide practice opportunities.</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<section>
+
+    <h2>4. Conclusion</h2>
+
+    <p>
+        Technology can complement traditional learning
+        when used thoughtfully and responsibly.
+    </p>
+
+</section>
+
+<section>
+
+    <h2>References</h2>
+
+    <ol>
+        <li>Educational technology resources</li>
+        <li>Digital learning studies</li>
+        <li>Academic technology publications</li>
+    </ol>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        Student Research Project © 2026
+    </p>
+
+</footer>
+
+</body>
+</html>
