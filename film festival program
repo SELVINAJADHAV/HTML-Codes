@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Festival Program</title>
+</head>
+<body>
+
+<header>
+    <h1>🎬 Indie Film Festival 2026</h1>
+    <p>A celebration of independent cinema and creativity.</p>
+</header>
+
+<hr>
+
+<nav>
+    <a href="#program">Program</a> |
+    <a href="#awards">Awards</a> |
+    <a href="#venue">Venue</a>
+</nav>
+
+<hr>
+
+<main>
+
+<section id="program">
+
+    <h2>🎥 Today's Program</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Time</th>
+            <th>Film</th>
+            <th>Genre</th>
+            <th>Screen</th>
+        </tr>
+
+        <tr>
+            <td>10:00 AM</td>
+            <td>Beyond the Horizon</td>
+            <td>Adventure</td>
+            <td>Screen 1</td>
+        </tr>
+
+        <tr>
+            <td>12:30 PM</td>
+            <td>The Last Letter</td>
+            <td>Drama</td>
+            <td>Screen 2</td>
+        </tr>
+
+        <tr>
+            <td>03:00 PM</td>
+            <td>Digital Dreams</td>
+            <td>Technology</td>
+            <td>Screen 1</td>
+        </tr>
+
+        <tr>
+            <td>06:00 PM</td>
+            <td>Midnight Journey</td>
+            <td>Mystery</td>
+            <td>Screen 3</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section id="awards">
+
+    <h2>🏆 Festival Awards</h2>
+
+    <ol>
+        <li>Best Film</li>
+        <li>Best Director</li>
+        <li>Best Screenplay</li>
+        <li>Audience Choice</li>
+    </ol>
+
+</section>
+
+<hr>
+
+<section id="venue">
+
+    <h2>📍 Venue</h2>
+
+    <address>
+        City Arts Center<br>
+        Central Avenue<br>
+        Open from 9:00 AM to 9:00 PM
+    </address>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Indie Film Festival © 2026</p>
+</footer>
+
+</body>
+</html>
