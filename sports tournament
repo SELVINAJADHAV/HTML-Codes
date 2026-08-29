@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Tournament</title>
+</head>
+<body>
+
+<header>
+
+    <h1>🏅 College Sports Championship</h1>
+
+    <p>
+        Fictional tournament bracket
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>⚽ Quarter Finals</h2>
+
+    <table border="1" cellpadding="12">
+
+        <tr>
+            <th>Match</th>
+            <th>Team A</th>
+            <th>Score</th>
+            <th>Team B</th>
+            <th>Winner</th>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Falcons</td>
+            <td>3 - 1</td>
+            <td>Tigers</td>
+            <td>Falcons</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Warriors</td>
+            <td>2 - 0</td>
+            <td>Lions</td>
+            <td>Warriors</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Dragons</td>
+            <td>1 - 2</td>
+            <td>Hawks</td>
+            <td>Hawks</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Sharks</td>
+            <td>4 - 2</td>
+            <td>Eagles</td>
+            <td>Sharks</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🥇 Semi Finals</h2>
+
+    <table border="1" cellpadding="12">
+
+        <tr>
+            <th>Match</th>
+            <th>Team A</th>
+            <th>Team B</th>
+            <th>Winner</th>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Falcons</td>
+            <td>Warriors</td>
+            <td>To Be Decided</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Hawks</td>
+            <td>Sharks</td>
+            <td>To Be Decided</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🏆 Final</h2>
+
+    <p>
+        Finalists will be determined after the semi-finals.
+    </p>
+
+    <p>
+        <strong>Championship:</strong>
+        <time datetime="2026-09-20">20 September 2026</time>
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📜 Tournament Rules</h2>
+
+    <ul>
+        <li>Each match follows the tournament rules.</li>
+        <li>Teams must arrive before their scheduled match.</li>
+        <li>Results are recorded after each match.</li>
+    </ul>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        College Sports Championship © 2026
+    </p>
+
+</footer>
+
+</body>
+</html>
