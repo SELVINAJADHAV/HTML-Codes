@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airport Departure Board</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>✈️ CITY AIRPORT</h1>
+
+    <p>
+        DEPARTURES
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<table border="1" cellpadding="12">
+
+    <tr>
+        <th>Flight</th>
+        <th>Destination</th>
+        <th>Time</th>
+        <th>Gate</th>
+        <th>Status</th>
+    </tr>
+
+    <tr>
+        <td>AX102</td>
+        <td>Mumbai</td>
+        <td>08:30</td>
+        <td>A2</td>
+        <td>On Time</td>
+    </tr>
+
+    <tr>
+        <td>BT215</td>
+        <td>Delhi</td>
+        <td>10:15</td>
+        <td>B4</td>
+        <td>Boarding</td>
+    </tr>
+
+    <tr>
+        <td>CM304</td>
+        <td>Bengaluru</td>
+        <td>12:45</td>
+        <td>C1</td>
+        <td>Scheduled</td>
+    </tr>
+
+    <tr>
+        <td>DX410</td>
+        <td>Hyderabad</td>
+        <td>03:30</td>
+        <td>A5</td>
+        <td>Delayed</td>
+    </tr>
+
+</table>
+
+<hr>
+
+<section>
+
+    <h2>📢 Airport Announcement</h2>
+
+    <p>
+        Passengers should check their boarding gate
+        and flight status before proceeding to the gate.
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🛫 Terminal Information</h2>
+
+    <ul>
+        <li>Terminal 1 — Domestic Flights</li>
+        <li>Terminal 2 — International Flights</li>
+        <li>Information Desk — Main Lobby</li>
+    </ul>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>City Airport — Sample HTML Project</p>
+</footer>
+
+</body>
+</html>
