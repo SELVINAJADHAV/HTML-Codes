@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Startup Idea Pitch</title>
+</head>
+<body>
+
+<header>
+
+    <h1>💡 Startup Idea Pitch</h1>
+
+    <p>
+        A fictional startup concept.
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🚀 Startup Name</h2>
+
+    <h3>StudySpark</h3>
+
+    <p>
+        A fictional digital platform designed to help
+        students organize their learning resources.
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>❗ Problem</h2>
+
+    <p>
+        Students often have learning resources spread
+        across multiple places, making them difficult
+        to organize.
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>💡 Solution</h2>
+
+    <p>
+        StudySpark would provide one organized space
+        for notes, resources and learning goals.
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>✨ Key Features</h2>
+
+    <ul>
+        <li>Resource organization</li>
+        <li>Subject categories</li>
+        <li>Learning progress</li>
+        <li>Study reminders</li>
+        <li>Personal dashboard</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🎯 Target Users</h2>
+
+    <ol>
+        <li>School students</li>
+        <li>College students</li>
+        <li>Self-learners</li>
+    </ol>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📈 Project Progress</h2>
+
+    <p>Idea</p>
+    <progress value="100" max="100"></progress>
+
+    <p>Planning</p>
+    <progress value="80" max="100"></progress>
+
+    <p>Prototype</p>
+    <progress value="40" max="100"></progress>
+
+    <p>Launch</p>
+    <progress value="10" max="100"></progress>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🌟 Vision</h2>
+
+    <blockquote>
+        "Make learning resources easier to organize,
+        discover and use."
+    </blockquote>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        StudySpark — Fictional Startup Pitch
+    </p>
+
+</footer>
+
+</body>
+</html>
