@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Warranty</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>📦 Product Warranty</h1>
+
+    <p>
+        Warranty information for a fictional product.
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🖥️ Product Details</h2>
+
+    <dl>
+
+        <dt><strong>Product</strong></dt>
+        <dd>SmartView Monitor</dd>
+
+        <dt><strong>Model</strong></dt>
+        <dd>SV-2026</dd>
+
+        <dt><strong>Serial Number</strong></dt>
+        <dd>SV26-000145</dd>
+
+        <dt><strong>Purchase Date</strong></dt>
+        <dd>
+            <time datetime="2026-08-01">
+                August 1, 2026
+            </time>
+        </dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🛡️ Warranty Coverage</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Component</th>
+            <th>Coverage</th>
+        </tr>
+
+        <tr>
+            <td>Display</td>
+            <td>12 Months</td>
+        </tr>
+
+        <tr>
+            <td>Power Supply</td>
+            <td>12 Months</td>
+        </tr>
+
+        <tr>
+            <td>Stand</td>
+            <td>6 Months</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📋 Warranty Conditions</h2>
+
+    <ul>
+
+        <li>Keep the original purchase information.</li>
+
+        <li>Warranty applies according to the stated terms.</li>
+
+        <li>Physical damage may not be covered.</li>
+
+        <li>Contact the authorized service center
+            for assistance.</li>
+
+    </ul>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📅 Warranty Status</h2>
+
+    <p>
+        Coverage remaining:
+    </p>
+
+    <progress
+        value="90"
+        max="100">
+    </progress>
+
+    <p>Approximately 90% of the warranty period remaining.</p>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        Sample Warranty Page — Educational HTML Project
+    </p>
+
+</footer>
+
+</body>
+</html>
