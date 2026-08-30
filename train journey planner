@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Train Journey Planner</title>
+</head>
+<body>
+
+<header>
+
+    <h1>🚆 Train Journey Planner</h1>
+
+    <p>
+        Sample journey information
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🛤️ Journey Route</h2>
+
+    <p>
+        <strong>Start:</strong> Pune
+    </p>
+
+    <p>
+        ↓
+    </p>
+
+    <p>
+        <strong>Destination:</strong> Mumbai
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🚉 Journey Stops</h2>
+
+    <ol>
+
+        <li>Pune</li>
+        <li>Lonavala</li>
+        <li>Khandala</li>
+        <li>Kalyan</li>
+        <li>Mumbai</li>
+
+    </ol>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🕐 Train Schedule</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Station</th>
+            <th>Arrival</th>
+            <th>Departure</th>
+        </tr>
+
+        <tr>
+            <td>Pune</td>
+            <td>--</td>
+            <td>07:00 AM</td>
+        </tr>
+
+        <tr>
+            <td>Lonavala</td>
+            <td>08:00 AM</td>
+            <td>08:05 AM</td>
+        </tr>
+
+        <tr>
+            <td>Kalyan</td>
+            <td>10:00 AM</td>
+            <td>10:05 AM</td>
+        </tr>
+
+        <tr>
+            <td>Mumbai</td>
+            <td>11:00 AM</td>
+            <td>--</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🎒 Journey Checklist</h2>
+
+    <ul>
+        <li>Ticket</li>
+        <li>Identification</li>
+        <li>Water</li>
+        <li>Phone charger</li>
+        <li>Travel bag</li>
+    </ul>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Train Journey Planner — HTML Project</p>
+</footer>
+
+</body>
+</html>
