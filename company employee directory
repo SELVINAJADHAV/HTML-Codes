@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Directory</title>
+</head>
+<body>
+
+<header>
+
+    <h1>🧑‍💼 Employee Directory</h1>
+
+    <p>
+        Fictional company staff directory
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🏢 Technology Department</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Employee</th>
+            <th>Role</th>
+            <th>Department</th>
+            <th>Experience</th>
+        </tr>
+
+        <tr>
+            <td>Alex Morgan</td>
+            <td>Developer</td>
+            <td>Technology</td>
+            <td>3 Years</td>
+        </tr>
+
+        <tr>
+            <td>Maya Patel</td>
+            <td>UI Designer</td>
+            <td>Design</td>
+            <td>2 Years</td>
+        </tr>
+
+        <tr>
+            <td>Daniel Lee</td>
+            <td>System Analyst</td>
+            <td>Technology</td>
+            <td>4 Years</td>
+        </tr>
+
+        <tr>
+            <td>Sophia Brown</td>
+            <td>Project Manager</td>
+            <td>Management</td>
+            <td>5 Years</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📋 Departments</h2>
+
+    <dl>
+
+        <dt><strong>Technology</strong></dt>
+        <dd>Software and technical development.</dd>
+
+        <dt><strong>Design</strong></dt>
+        <dd>User interface and visual design.</dd>
+
+        <dt><strong>Management</strong></dt>
+        <dd>Project planning and coordination.</dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🎯 Company Values</h2>
+
+    <ul>
+        <li>Innovation</li>
+        <li>Teamwork</li>
+        <li>Learning</li>
+        <li>Responsibility</li>
+    </ul>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Employee Directory — Fictional Company</p>
+</footer>
+
+</body>
+</html>
