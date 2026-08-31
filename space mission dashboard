@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Mission Dashboard</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>🔭 SPACE MISSION CONTROL</h1>
+
+    <p>Fictional Mission Dashboard</p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🚀 Mission: ORION-7</h2>
+
+    <dl>
+
+        <dt><strong>Mission Status</strong></dt>
+        <dd>Active</dd>
+
+        <dt><strong>Mission Duration</strong></dt>
+        <dd>120 Days</dd>
+
+        <dt><strong>Crew</strong></dt>
+        <dd>4 Members</dd>
+
+        <dt><strong>Destination</strong></dt>
+        <dd>Deep Space Research Zone</dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📡 System Status</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>System</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td>Communication</td>
+            <td>Operational</td>
+        </tr>
+
+        <tr>
+            <td>Navigation</td>
+            <td>Operational</td>
+        </tr>
+
+        <tr>
+            <td>Power</td>
+            <td>Operational</td>
+        </tr>
+
+        <tr>
+            <td>Research Module</td>
+            <td>Active</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📊 Mission Progress</h2>
+
+    <progress value="64" max="100"></progress>
+
+    <p>64% Complete</p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🛰️ Mission Timeline</h2>
+
+    <ol>
+
+        <li>Launch — Completed</li>
+        <li>Orbit Entry — Completed</li>
+        <li>Research Phase — Active</li>
+        <li>Return Journey — Pending</li>
+        <li>Landing — Pending</li>
+
+    </ol>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📢 Mission Message</h2>
+
+    <blockquote>
+        Mission systems are operating normally.
+        Research activities continue according to plan.
+    </blockquote>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>ORION-7 Mission Control — Fictional Project</p>
+</footer>
+
+</body>
+</html>
