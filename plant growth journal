@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Growth Journal</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>🌱 My Plant Growth Journal</h1>
+
+    <p>Recording the growth of a fictional plant.</p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🌿 Plant Information</h2>
+
+    <dl>
+
+        <dt><strong>Plant Name</strong></dt>
+        <dd>Sunny</dd>
+
+        <dt><strong>Plant Type</strong></dt>
+        <dd>Sunflower</dd>
+
+        <dt><strong>Start Date</strong></dt>
+        <dd>
+            <time datetime="2026-07-01">
+                July 1, 2026
+            </time>
+        </dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📏 Growth Record</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Week</th>
+            <th>Height</th>
+            <th>Observation</th>
+        </tr>
+
+        <tr>
+            <td>Week 1</td>
+            <td>5 cm</td>
+            <td>First leaves appeared</td>
+        </tr>
+
+        <tr>
+            <td>Week 2</td>
+            <td>11 cm</td>
+            <td>Leaves becoming larger</td>
+        </tr>
+
+        <tr>
+            <td>Week 3</td>
+            <td>18 cm</td>
+            <td>Stem becoming stronger</td>
+        </tr>
+
+        <tr>
+            <td>Week 4</td>
+            <td>27 cm</td>
+            <td>Healthy growth</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>💧 Care Checklist</h2>
+
+    <label>
+        <input type="checkbox">
+        Watered today
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox">
+        Checked sunlight
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox">
+        Checked soil
+    </label>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🌻 Growth Progress</h2>
+
+    <progress value="75" max="100"></progress>
+
+    <p>75% — Current growth stage</p>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Plant Growth Journal — HTML Project</p>
+</footer>
+
+</body>
+</html>
