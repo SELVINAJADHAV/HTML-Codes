@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Country Explorer</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>🌍 Country Explorer</h1>
+
+    <p>
+        Discover interesting information about countries.
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🇯🇵 Japan</h2>
+
+    <dl>
+
+        <dt><strong>Capital</strong></dt>
+        <dd>Tokyo</dd>
+
+        <dt><strong>Continent</strong></dt>
+        <dd>Asia</dd>
+
+        <dt><strong>Currency</strong></dt>
+        <dd>Japanese Yen</dd>
+
+        <dt><strong>Language</strong></dt>
+        <dd>Japanese</dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🗺️ Quick Facts</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Category</th>
+            <th>Information</th>
+        </tr>
+
+        <tr>
+            <td>Region</td>
+            <td>East Asia</td>
+        </tr>
+
+        <tr>
+            <td>Island Country</td>
+            <td>Yes</td>
+        </tr>
+
+        <tr>
+            <td>Time Zone</td>
+            <td>JST</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🏯 Places to Explore</h2>
+
+    <ul>
+        <li>Tokyo</li>
+        <li>Kyoto</li>
+        <li>Osaka</li>
+        <li>Hokkaido</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📖 Did You Know?</h2>
+
+    <blockquote>
+        Japan consists of thousands of islands and
+        is known for its distinctive blend of traditional
+        culture and modern technology.
+    </blockquote>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        Country Explorer — Educational HTML Project
+    </p>
+
+</footer>
+
+</body>
+</html>
