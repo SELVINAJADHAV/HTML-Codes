@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Invoice</title>
+</head>
+
+<body>
+
+<header>
+    <h1>🧾 INVOICE</h1>
+    <p>Invoice No: INV-2026-001</p>
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🏢 From</h2>
+
+    <address>
+        Bright Solutions<br>
+        Innovation Street<br>
+        Pune, India
+    </address>
+
+</section>
+
+<section>
+
+    <h2>👤 Bill To</h2>
+
+    <address>
+        Alex Customer<br>
+        Main Road<br>
+        Pune, India
+    </address>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🛒 Items</h2>
+
+    <table border="1" cellpadding="10">
+
+        <thead>
+            <tr>
+                <th>Item</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td>Website Design</td>
+                <td>1</td>
+                <td>₹5,000</td>
+                <td>₹5,000</td>
+            </tr>
+
+            <tr>
+                <td>HTML Development</td>
+                <td>1</td>
+                <td>₹3,000</td>
+                <td>₹3,000</td>
+            </tr>
+
+            <tr>
+                <td>Content Setup</td>
+                <td>2</td>
+                <td>₹500</td>
+                <td>₹1,000</td>
+            </tr>
+
+        </tbody>
+
+        <tfoot>
+
+            <tr>
+                <th colspan="3">Grand Total</th>
+                <th>₹9,000</th>
+            </tr>
+
+        </tfoot>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>💳 Payment Information</h2>
+
+    <p>Payment Status: <strong>Pending</strong></p>
+
+    <p>
+        Payment method: Online Transfer
+    </p>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📝 Notes</h2>
+
+    <p>
+        Thank you for choosing Bright Solutions.
+    </p>
+
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Bright Solutions © 2026</p>
+</footer>
+
+</body>
+</html>
