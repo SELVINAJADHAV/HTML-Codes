@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Historical Timeline</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>🕰️ Technology Timeline</h1>
+
+    <p>
+        A simplified timeline of major computing eras.
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>📅 Timeline</h2>
+
+    <ol>
+
+        <li>
+            <strong>1940s</strong>
+            <p>
+                Early electronic computers were developed.
+            </p>
+        </li>
+
+        <li>
+            <strong>1950s</strong>
+            <p>
+                Computers became increasingly important
+                for scientific and business applications.
+            </p>
+        </li>
+
+        <li>
+            <strong>1970s</strong>
+            <p>
+                Microprocessors helped drive the development
+                of smaller computing systems.
+            </p>
+        </li>
+
+        <li>
+            <strong>1980s</strong>
+            <p>
+                Personal computers became more widely used.
+            </p>
+        </li>
+
+        <li>
+            <strong>1990s</strong>
+            <p>
+                The World Wide Web expanded access to online
+                information.
+            </p>
+        </li>
+
+        <li>
+            <strong>2000s</strong>
+            <p>
+                Smartphones and cloud-based services became
+                increasingly influential.
+            </p>
+        </li>
+
+        <li>
+            <strong>2020s</strong>
+            <p>
+                AI, cloud computing and advanced digital
+                services continue to develop.
+            </p>
+        </li>
+
+    </ol>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>💻 Computing Eras</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Era</th>
+            <th>Focus</th>
+        </tr>
+
+        <tr>
+            <td>Early Computing</td>
+            <td>Large electronic machines</td>
+        </tr>
+
+        <tr>
+            <td>Personal Computing</td>
+            <td>Computers for individuals</td>
+        </tr>
+
+        <tr>
+            <td>Internet Era</td>
+            <td>Global digital communication</td>
+        </tr>
+
+        <tr>
+            <td>Modern Era</td>
+            <td>Cloud, AI and connected devices</td>
+        </tr>
+
+    </table>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        Technology Timeline — HTML Project
+    </p>
+
+</footer>
+
+</body>
+</html>
