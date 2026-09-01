@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>City Tourist Guide</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>🗺️ Explore Pune</h1>
+
+    <p>
+        A simple fictional city guide for visitors.
+    </p>
+
+</header>
+
+<hr>
+
+<nav>
+
+    <a href="#places">Places</a> |
+    <a href="#food">Food</a> |
+    <a href="#tips">Travel Tips</a>
+
+</nav>
+
+<hr>
+
+<main>
+
+<section id="places">
+
+    <h2>📍 Places to Explore</h2>
+
+    <article>
+
+        <h3>🏰 Historic Area</h3>
+
+        <p>
+            Explore historic architecture and learn
+            about the city's past.
+        </p>
+
+    </article>
+
+    <article>
+
+        <h3>🌳 City Garden</h3>
+
+        <p>
+            A peaceful place for visitors to relax
+            and enjoy nature.
+        </p>
+
+    </article>
+
+    <article>
+
+        <h3>🏛️ Cultural Center</h3>
+
+        <p>
+            Discover art, performances and local culture.
+        </p>
+
+    </article>
+
+</section>
+
+<hr>
+
+<section id="food">
+
+    <h2>🍽️ Local Food Ideas</h2>
+
+    <ul>
+        <li>Misal Pav</li>
+        <li>Poha</li>
+        <li>Bhakri</li>
+        <li>Puran Poli</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section id="tips">
+
+    <h2>🎒 Visitor Tips</h2>
+
+    <ol>
+        <li>Carry drinking water.</li>
+        <li>Keep important belongings secure.</li>
+        <li>Check local transport information.</li>
+        <li>Respect local places and customs.</li>
+    </ol>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🌤️ Suggested Day Plan</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Time</th>
+            <th>Activity</th>
+        </tr>
+
+        <tr>
+            <td>9:00 AM</td>
+            <td>Visit historic area</td>
+        </tr>
+
+        <tr>
+            <td>12:30 PM</td>
+            <td>Lunch</td>
+        </tr>
+
+        <tr>
+            <td>3:00 PM</td>
+            <td>Visit cultural center</td>
+        </tr>
+
+        <tr>
+            <td>6:00 PM</td>
+            <td>Relax at city garden</td>
+        </tr>
+
+    </table>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        City Tourist Guide — HTML Project
+    </p>
+
+</footer>
+
+</body>
+</html>
