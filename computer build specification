@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Computer Build</title>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>🖥️ Custom Computer Build</h1>
+
+    <p>
+        Sample PC specification page.
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>⚙️ Build Overview</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Component</th>
+            <th>Specification</th>
+        </tr>
+
+        <tr>
+            <td>Processor</td>
+            <td>8-Core CPU</td>
+        </tr>
+
+        <tr>
+            <td>Memory</td>
+            <td>16 GB RAM</td>
+        </tr>
+
+        <tr>
+            <td>Storage</td>
+            <td>1 TB SSD</td>
+        </tr>
+
+        <tr>
+            <td>Graphics</td>
+            <td>Dedicated GPU</td>
+        </tr>
+
+        <tr>
+            <td>Operating System</td>
+            <td>64-bit OS</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🎯 Intended Use</h2>
+
+    <ul>
+
+        <li>Web development</li>
+        <li>Programming practice</li>
+        <li>Photo editing</li>
+        <li>General productivity</li>
+
+    </ul>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>📊 Component Priority</h2>
+
+    <p>Processor</p>
+    <meter min="0" max="100" value="85"></meter>
+
+    <p>Memory</p>
+    <meter min="0" max="100" value="80"></meter>
+
+    <p>Storage</p>
+    <meter min="0" max="100" value="75"></meter>
+
+    <p>Graphics</p>
+    <meter min="0" max="100" value="70"></meter>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🔧 Build Notes</h2>
+
+    <details>
+
+        <summary>
+            Show component notes
+        </summary>
+
+        <p>
+            The specifications shown here are fictional
+            and created for HTML practice.
+        </p>
+
+    </details>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        Custom Computer Build — HTML Project
+    </p>
+
+</footer>
+
+</body>
+</html>
