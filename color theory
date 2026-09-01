@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Color Theory</title>
+</head>
+
+<body>
+
+<header>
+
+    <h1>🎨 Color Theory</h1>
+
+    <p>
+        A simple guide to understanding colors.
+    </p>
+
+</header>
+
+<hr>
+
+<main>
+
+<section>
+
+    <h2>🔴 Primary Colors</h2>
+
+    <ul>
+        <li>Red</li>
+        <li>Blue</li>
+        <li>Yellow</li>
+    </ul>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🟠 Secondary Colors</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Color Combination</th>
+            <th>Result</th>
+        </tr>
+
+        <tr>
+            <td>Red + Yellow</td>
+            <td>Orange</td>
+        </tr>
+
+        <tr>
+            <td>Blue + Yellow</td>
+            <td>Green</td>
+        </tr>
+
+        <tr>
+            <td>Red + Blue</td>
+            <td>Purple</td>
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>🌈 Color Categories</h2>
+
+    <dl>
+
+        <dt><strong>Warm Colors</strong></dt>
+        <dd>Colors commonly associated with warmth and energy.</dd>
+
+        <dt><strong>Cool Colors</strong></dt>
+        <dd>Colors commonly associated with calmness and coolness.</dd>
+
+        <dt><strong>Neutral Colors</strong></dt>
+        <dd>Colors such as black, white and gray.</dd>
+
+    </dl>
+
+</section>
+
+<hr>
+
+<section>
+
+    <h2>💡 Design Tip</h2>
+
+    <p>
+        Good color combinations can improve readability
+        and visual communication.
+    </p>
+
+</section>
+
+</main>
+
+<footer>
+
+    <hr>
+
+    <p>
+        Color Theory — HTML Learning Project
+    </p>
+
+</footer>
+
+</body>
+</html>
