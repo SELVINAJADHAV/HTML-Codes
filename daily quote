@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Quote</title>
+</head>
+<body>
+
+    <header>
+        <h1>🌟 Daily Quote</h1>
+        <p>A little inspiration for your day</p>
+    </header>
+
+    <main>
+        <section>
+            <blockquote>
+                "Every day is a new opportunity to learn something."
+            </blockquote>
+
+            <p><strong>Today's Reminder:</strong></p>
+            <p>Believe in yourself and keep moving forward.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created with HTML ❤️</p>
+    </footer>
+
+</body>
+</html>
