@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Values</title>
+</head>
+<body>
+
+    <header>
+        <h1>💎 My Personal Values</h1>
+    </header>
+
+    <main>
+
+        <h2>Values I Believe In</h2>
+
+        <ol>
+            <li><strong>Honesty</strong> — Always tell the truth.</li>
+            <li><strong>Respect</strong> — Treat others kindly.</li>
+            <li><strong>Hard Work</strong> — Keep trying even when things are difficult.</li>
+            <li><strong>Learning</strong> — Always improve your knowledge.</li>
+            <li><strong>Kindness</strong> — Help others whenever possible.</li>
+            <li><strong>Responsibility</strong> — Take responsibility for your actions.</li>
+        </ol>
+
+        <h2>My Motto</h2>
+
+        <blockquote>
+            Learn today, improve tomorrow.
+        </blockquote>
+
+    </main>
+
+    <footer>
+        <p>My Personal Values</p>
+    </footer>
+
+</body>
+</html>
