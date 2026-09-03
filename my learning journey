@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Learning Journey</title>
+</head>
+<body>
+
+    <header>
+        <h1>📚 My Learning Journey</h1>
+        <p>A record of how I am growing my knowledge.</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>My Journey</h2>
+
+            <article>
+                <h3>Step 1 — Getting Started</h3>
+                <p>
+                    I started learning the fundamentals of computers
+                    and programming.
+                </p>
+            </article>
+
+            <article>
+                <h3>Step 2 — Learning HTML</h3>
+                <p>
+                    I learned how headings, paragraphs, lists,
+                    tables and forms work in HTML.
+                </p>
+            </article>
+
+            <article>
+                <h3>Step 3 — Practicing Projects</h3>
+                <p>
+                    I started creating small HTML projects and
+                    uploading them to GitHub.
+                </p>
+            </article>
+
+            <article>
+                <h3>Step 4 — Future Learning</h3>
+                <p>
+                    My next goal is to improve my CSS, JavaScript
+                    and programming skills.
+                </p>
+            </article>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Keep Learning 🚀</p>
+    </footer>
+
+</body>
+</html>
