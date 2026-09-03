@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Goals</title>
+</head>
+<body>
+
+    <header>
+        <h1>🎯 My Study Goals</h1>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Short-Term Goals</h2>
+
+            <ol>
+                <li>Complete my HTML projects.</li>
+                <li>Practice programming every day.</li>
+                <li>Understand CSS fundamentals.</li>
+                <li>Improve my typing speed.</li>
+                <li>Complete college assignments on time.</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Long-Term Goals</h2>
+
+            <ol>
+                <li>Become a good web developer.</li>
+                <li>Learn multiple programming languages.</li>
+                <li>Create real-world projects.</li>
+                <li>Build a strong GitHub portfolio.</li>
+                <li>Get an internship in technology.</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>My Study Motto</h2>
+
+            <blockquote>
+                "Small progress every day creates big results."
+            </blockquote>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>My Study Goals | Keep Going 📖</p>
+    </footer>
+
+</body>
+</html>
