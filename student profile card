@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Profile Card</title>
+</head>
+<body>
+
+    <header>
+        <h1>🎓 Student Profile</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Student Information</h2>
+
+            <p><strong>Name:</strong> Alex Sharma</p>
+            <p><strong>Course:</strong> B.Sc. Computer Science</p>
+            <p><strong>Year:</strong> First Year</p>
+            <p><strong>College:</strong> Sunrise College</p>
+        </section>
+
+        <section>
+            <h2>Interests</h2>
+
+            <ul>
+                <li>Web Development</li>
+                <li>Programming</li>
+                <li>Photography</li>
+                <li>Technology</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Career Goal</h2>
+
+            <p>
+                My goal is to become a skilled software developer
+                and create useful technology projects.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Student Profile Project | HTML Practice</p>
+    </footer>
+
+</body>
+</html>
