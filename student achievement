@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Achievement</title>
+</head>
+<body>
+
+    <header>
+        <h1>🏆 Student Achievement</h1>
+        <p>Celebrating learning and progress.</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>My Achievement</h2>
+
+            <h3>HTML Project Challenge</h3>
+
+            <p>
+                I completed a collection of HTML practice projects
+                as part of my web development learning journey.
+            </p>
+        </section>
+
+        <section>
+            <h2>What I Learned</h2>
+
+            <ul>
+                <li>How to structure HTML documents.</li>
+                <li>How to use semantic elements.</li>
+                <li>How to create tables and forms.</li>
+                <li>How to organize projects.</li>
+                <li>How to upload projects to GitHub.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>My Next Goal</h2>
+
+            <p>
+                My next goal is to learn CSS and make my HTML
+                projects more attractive and responsive.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>One Achievement, One Step Forward 🌟</p>
+    </footer>
+
+</body>
+</html>
