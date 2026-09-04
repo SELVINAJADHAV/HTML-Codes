@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Resources</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #edf8f2;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 14px;
+            text-align: left;
+        }
+
+        th {
+            background: #f0f0f0;
+        }
+
+        @media(max-width: 600px) {
+            table {
+                font-size: 13px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📚 Learning Resources</h1>
+
+    <p>
+        A simple collection of resources that can help students
+        improve their knowledge and skills.
+    </p>
+
+    <table>
+
+        <tr>
+            <th>Resource</th>
+            <th>Purpose</th>
+            <th>Useful For</th>
+        </tr>
+
+        <tr>
+            <td>Textbooks</td>
+            <td>Detailed subject knowledge</td>
+            <td>Exam preparation</td>
+        </tr>
+
+        <tr>
+            <td>Class Notes</td>
+            <td>Quick revision</td>
+            <td>Daily study</td>
+        </tr>
+
+        <tr>
+            <td>Practice Questions</td>
+            <td>Improve problem solving</td>
+            <td>Exams</td>
+        </tr>
+
+        <tr>
+            <td>Programming Projects</td>
+            <td>Practical learning</td>
+            <td>Coding skills</td>
+        </tr>
+
+        <tr>
+            <td>Educational Videos</td>
+            <td>Visual learning</td>
+            <td>Understanding concepts</td>
+        </tr>
+
+    </table>
+
+</div>
+
+</body>
+</html>
