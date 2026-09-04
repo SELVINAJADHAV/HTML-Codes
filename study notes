@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Notes</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f3f0ff;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .note {
+            background: #faf9ff;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+        }
+
+        code {
+            background: #eee;
+            padding: 3px 6px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📝 My Study Notes</h1>
+
+    <div class="note">
+        <h2>💻 HTML</h2>
+        <p>
+            HTML stands for HyperText Markup Language.
+            It is used to create the structure of webpages.
+        </p>
+
+        <p>
+            Example:
+            <code>&lt;h1&gt;Hello&lt;/h1&gt;</code>
+        </p>
+    </div>
+
+    <div class="note">
+        <h2>🎨 CSS</h2>
+        <p>
+            CSS stands for Cascading Style Sheets.
+            It is used to style and design webpages.
+        </p>
+    </div>
+
+    <div class="note">
+        <h2>💡 Programming</h2>
+        <p>
+            Programming means giving instructions to a computer
+            to perform specific tasks.
+        </p>
+    </div>
+
+    <div class="note">
+        <h2>🗃️ Database</h2>
+        <p>
+            A database is used to store and manage organized information.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
