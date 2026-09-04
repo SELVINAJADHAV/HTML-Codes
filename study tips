@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Tips</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff8ed;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .tip {
+            padding: 18px;
+            margin: 12px 0;
+            border-left: 5px solid #555;
+            background: #f7f7f7;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📖 Smart Study Tips</h1>
+
+    <p>
+        Good study habits can make learning easier and more organized.
+    </p>
+
+    <div class="tip">
+        <h3>1. Make a Study Plan</h3>
+        <p>Decide what you want to study before starting.</p>
+    </div>
+
+    <div class="tip">
+        <h3>2. Keep Your Notes Organized</h3>
+        <p>Write important points clearly so you can revise them later.</p>
+    </div>
+
+    <div class="tip">
+        <h3>3. Take Short Breaks</h3>
+        <p>Short breaks can help you stay focused during long study sessions.</p>
+    </div>
+
+    <div class="tip">
+        <h3>4. Practice Regularly</h3>
+        <p>Practice programming and problem-solving instead of only reading.</p>
+    </div>
+
+    <div class="tip">
+        <h3>5. Revise Important Topics</h3>
+        <p>Review previous lessons regularly.</p>
+    </div>
+
+    <div class="tip">
+        <h3>6. Ask Questions</h3>
+        <p>Do not hesitate to ask teachers or classmates when something is unclear.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
