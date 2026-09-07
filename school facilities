@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Facilities</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef7ff;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .facilities {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+
+        .card {
+            background: #f5f9ff;
+            padding: 20px;
+            border-radius: 12px;
+        }
+
+        .card h2 {
+            margin-top: 0;
+        }
+
+        @media(max-width: 600px) {
+            .facilities {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🏫 School Facilities</h1>
+
+    <p>
+        A good educational institution provides different facilities
+        to support students in their learning and development.
+    </p>
+
+    <div class="facilities">
+
+        <div class="card">
+            <h2>📚 Library</h2>
+            <p>
+                A quiet place where students can read books,
+                newspapers and reference materials.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>💻 Computer Lab</h2>
+            <p>
+                A laboratory where students can practice programming
+                and computer-related activities.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>🔬 Science Lab</h2>
+            <p>
+                A place where students can learn science through
+                practical activities.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>⚽ Sports Ground</h2>
+            <p>
+                A space for students to participate in sports
+                and physical activities.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>🎨 Activity Room</h2>
+            <p>
+                A space for creative activities, competitions
+                and student events.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>🧑‍🏫 Classrooms</h2>
+            <p>
+                Learning spaces where teachers and students
+                interact during lessons.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
