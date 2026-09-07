@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Feedback</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef8f3;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        input, select, textarea {
+            width: 100%;
+            padding: 11px;
+            margin-top: 7px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 7px;
+        }
+
+        textarea {
+            height: 120px;
+            resize: vertical;
+        }
+
+        button {
+            margin-top: 20px;
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 7px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📝 Student Feedback</h1>
+
+    <p>
+        Your feedback can help improve the learning experience.
+    </p>
+
+    <form>
+
+        <label for="name">Student Name</label>
+        <input type="text" id="name" placeholder="Enter your name">
+
+        <label for="subject">Subject</label>
+
+        <select id="subject">
+
+            <option>Select Subject</option>
+            <option>Computer Science</option>
+            <option>Mathematics</option>
+            <option>Science</option>
+            <option>English</option>
+
+        </select>
+
+        <label for="rating">How was the class?</label>
+
+        <select id="rating">
+
+            <option>Select Rating</option>
+            <option>Excellent</option>
+            <option>Very Good</option>
+            <option>Good</option>
+            <option>Needs Improvement</option>
+
+        </select>
+
+        <label for="feedback">Your Feedback</label>
+
+        <textarea id="feedback"
+            placeholder="Write your feedback here..."></textarea>
+
+        <button type="submit">Submit Feedback</button>
+
+    </form>
+
+</div>
+
+</body>
+</html>
