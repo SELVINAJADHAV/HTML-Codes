@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Departments</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f7f3ff;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 14px;
+            text-align: left;
+        }
+
+        th {
+            background: #eeeeee;
+        }
+
+        tr:hover {
+            background: #f8f8f8;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🎓 College Departments</h1>
+
+    <p>
+        Different departments offer different areas of education
+        and help students choose subjects according to their interests.
+    </p>
+
+    <table>
+
+        <tr>
+            <th>Department</th>
+            <th>Main Area</th>
+            <th>Example Subjects</th>
+        </tr>
+
+        <tr>
+            <td>Computer Science</td>
+            <td>Technology</td>
+            <td>Programming, Database</td>
+        </tr>
+
+        <tr>
+            <td>Mathematics</td>
+            <td>Mathematical Studies</td>
+            <td>Algebra, Statistics</td>
+        </tr>
+
+        <tr>
+            <td>Physics</td>
+            <td>Physical Science</td>
+            <td>Mechanics, Electronics</td>
+        </tr>
+
+        <tr>
+            <td>Chemistry</td>
+            <td>Chemical Science</td>
+            <td>Organic Chemistry</td>
+        </tr>
+
+        <tr>
+            <td>Commerce</td>
+            <td>Business Studies</td>
+            <td>Accounting, Economics</td>
+        </tr>
+
+    </table>
+
+</div>
+
+</body>
+</html>
