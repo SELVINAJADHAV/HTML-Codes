@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classroom Rules</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff8ed;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .rule {
+            padding: 15px;
+            margin: 12px 0;
+            background: #fafafa;
+            border-radius: 10px;
+        }
+
+        .number {
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .positive {
+            margin-top: 25px;
+            padding: 18px;
+            background: #eef8ee;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📋 Classroom Rules</h1>
+
+    <p>
+        Following simple classroom rules helps create a respectful
+        and comfortable learning environment.
+    </p>
+
+    <div class="rule">
+        <span class="number">1.</span>
+        <strong> Be on Time</strong>
+        <p>Arrive in class before the lesson begins.</p>
+    </div>
+
+    <div class="rule">
+        <span class="number">2.</span>
+        <strong> Listen Carefully</strong>
+        <p>Pay attention when the teacher or another student is speaking.</p>
+    </div>
+
+    <div class="rule">
+        <span class="number">3.</span>
+        <strong> Respect Everyone</strong>
+        <p>Treat teachers and classmates politely.</p>
+    </div>
+
+    <div class="rule">
+        <span class="number">4.</span>
+        <strong> Complete Your Work</strong>
+        <p>Try to complete assignments and classroom activities on time.</p>
+    </div>
+
+    <div class="rule">
+        <span class="number">5.</span>
+        <strong> Keep the Classroom Clean</strong>
+        <p>Put waste in the proper place and take care of classroom materials.</p>
+    </div>
+
+    <div class="positive">
+        <strong>🌟 Good Classroom Habits:</strong>
+        Be respectful, responsible, curious and ready to learn.
+    </div>
+
+</div>
+
+</body>
+</html>
