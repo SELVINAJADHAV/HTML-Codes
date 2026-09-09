@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Notice Board</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff8e7;
+            padding: 20px;
+        }
+
+        .board {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .notice {
+            padding: 18px;
+            margin: 15px 0;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            background: #fafafa;
+        }
+
+        .date {
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .important {
+            border-left: 6px solid #555;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="board">
+
+    <h1>📌 Student Notice Board</h1>
+
+    <div class="notice important">
+
+        <div class="date">📅 9 September 2026</div>
+
+        <h2>Computer Science Practical</h2>
+
+        <p>
+            Students are requested to bring their practical notebooks
+            for the upcoming computer laboratory session.
+        </p>
+
+    </div>
+
+    <div class="notice">
+
+        <div class="date">📅 11 September 2026</div>
+
+        <h2>Assignment Submission</h2>
+
+        <p>
+            Students should check their pending assignments and
+            submit them according to the instructions provided by
+            their teachers.
+        </p>
+
+    </div>
+
+    <div class="notice">
+
+        <div class="date">📅 15 September 2026</div>
+
+        <h2>Student Activity</h2>
+
+        <p>
+            An educational activity will be organized for students.
+            More information will be shared in class.
+        </p>
+
+    </div>
+
+    <div class="notice">
+
+        <div class="date">📅 20 September 2026</div>
+
+        <h2>Library Reminder</h2>
+
+        <p>
+            Students are requested to return borrowed library books
+            according to the library schedule.
+        </p>
+
+    </div>
+
+</div>
+
+</body>
+</html>
