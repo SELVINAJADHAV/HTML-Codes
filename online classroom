@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Classroom</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #eef4ff;
+        }
+
+        header {
+            background: #303f9f;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 25px auto;
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 12px;
+        }
+
+        .card h2 {
+            margin-top: 0;
+        }
+
+        button {
+            padding: 10px 18px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>💻 My Online Classroom</h1>
+    <p>Learn • Practice • Improve</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>📚 Today's Lesson</h2>
+        <p><strong>Subject:</strong> Web Development</p>
+        <p><strong>Topic:</strong> Introduction to HTML</p>
+        <p><strong>Duration:</strong> 1 Hour</p>
+        <button>View Lesson</button>
+    </div>
+
+    <div class="card">
+        <h2>📝 Today's Assignment</h2>
+        <p>Create a simple webpage using headings, paragraphs and lists.</p>
+        <p><strong>Deadline:</strong> Friday</p>
+        <button>View Assignment</button>
+    </div>
+
+    <div class="card">
+        <h2>📢 Classroom Announcement</h2>
+        <p>
+            The next practical session will focus on creating
+            your first complete HTML webpage.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
