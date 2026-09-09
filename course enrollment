@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Enrollment</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef3f8;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 11px;
+            margin-top: 7px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 7px;
+        }
+
+        .courses {
+            margin-top: 20px;
+        }
+
+        .courses label {
+            font-weight: normal;
+        }
+
+        button {
+            margin-top: 25px;
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 7px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🎓 Course Enrollment</h1>
+
+    <p>
+        Fill out this form to select an educational course.
+    </p>
+
+    <form>
+
+        <label for="name">Student Name</label>
+        <input type="text" id="name" placeholder="Enter your name">
+
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="Enter your email">
+
+        <label for="year">Academic Year</label>
+
+        <select id="year">
+            <option>Select Year</option>
+            <option>First Year</option>
+            <option>Second Year</option>
+            <option>Third Year</option>
+        </select>
+
+        <div class="courses">
+
+            <h3>Select a Course</h3>
+
+            <label>
+                <input type="radio" name="course">
+                Web Development
+            </label>
+
+            <label>
+                <input type="radio" name="course">
+                Python Programming
+            </label>
+
+            <label>
+                <input type="radio" name="course">
+                Database Fundamentals
+            </label>
+
+            <label>
+                <input type="radio" name="course">
+                Data Structures
+            </label>
+
+        </div>
+
+        <button type="submit">Enroll Now</button>
+
+    </form>
+
+</div>
+
+</body>
+</html>
