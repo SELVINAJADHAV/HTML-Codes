@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Journey</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef8f5;
+            padding: 30px;
+        }
+
+        .timeline {
+            max-width: 750px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .event {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-left: 6px solid #555;
+            border-radius: 10px;
+        }
+
+        .year {
+            font-weight: bold;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="timeline">
+
+    <h1>🎓 My Educational Journey</h1>
+
+    <div class="event">
+        <div class="year">2018</div>
+        <h2>🏫 Primary Education</h2>
+        <p>
+            Started my early school education and developed
+            basic reading, writing and mathematical skills.
+        </p>
+    </div>
+
+    <div class="event">
+        <div class="year">2022</div>
+        <h2>📖 Secondary Education</h2>
+        <p>
+            Studied different subjects and discovered new interests.
+        </p>
+    </div>
+
+    <div class="event">
+        <div class="year">2025</div>
+        <h2>🎯 Higher Secondary Education</h2>
+        <p>
+            Focused on subjects related to future career interests.
+        </p>
+    </div>
+
+    <div class="event">
+        <div class="year">2026</div>
+        <h2>💻 College Journey</h2>
+        <p>
+            Started studying Computer Science and began learning
+            programming and web development.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
