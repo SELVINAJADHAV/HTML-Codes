@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binary Number Guide</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f7ff;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #1769aa;
+        }
+
+        .box {
+            background: #e8f3ff;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+        }
+
+        code {
+            background: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🔢 Binary Number System</h1>
+
+    <div class="box">
+        <h2>What is Binary?</h2>
+        <p>Binary is a number system that uses only two digits:</p>
+        <p><strong>0 and 1</strong></p>
+    </div>
+
+    <div class="box">
+        <h2>Why Computers Use Binary?</h2>
+        <p>Digital computers work with electronic states that can be represented as 0 and 1.</p>
+    </div>
+
+    <div class="box">
+        <h2>Example</h2>
+        <p>Decimal <strong>5</strong> can be represented in binary as:</p>
+        <p><code>101</code></p>
+    </div>
+
+    <div class="box">
+        <h2>Common Number Systems</h2>
+        <ul>
+            <li>Binary — Base 2</li>
+            <li>Decimal — Base 10</li>
+            <li>Octal — Base 8</li>
+            <li>Hexadecimal — Base 16</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
