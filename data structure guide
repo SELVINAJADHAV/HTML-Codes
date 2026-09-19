@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Structure Guide</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eefbf5;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #16805c;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 14px;
+            text-align: left;
+        }
+
+        th {
+            background: #dff5eb;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🗂️ Data Structure Guide</h1>
+
+    <table>
+
+        <tr>
+            <th>Data Structure</th>
+            <th>Meaning</th>
+            <th>Example</th>
+        </tr>
+
+        <tr>
+            <td>Array</td>
+            <td>Stores elements in an ordered collection.</td>
+            <td>Student marks</td>
+        </tr>
+
+        <tr>
+            <td>Stack</td>
+            <td>Follows Last In, First Out.</td>
+            <td>Undo operation</td>
+        </tr>
+
+        <tr>
+            <td>Queue</td>
+            <td>Follows First In, First Out.</td>
+            <td>Printer queue</td>
+        </tr>
+
+        <tr>
+            <td>Linked List</td>
+            <td>Stores connected nodes.</td>
+            <td>Music playlist</td>
+        </tr>
+
+        <tr>
+            <td>Tree</td>
+            <td>Organizes data in a hierarchical structure.</td>
+            <td>Folder structure</td>
+        </tr>
+
+    </table>
+
+</div>
+
+</body>
+</html>
