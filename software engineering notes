@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Engineering Notes</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #34495e;
+        }
+
+        .topic {
+            padding: 18px;
+            margin: 15px 0;
+            background: #edf2f7;
+            border-left: 5px solid #34495e;
+            border-radius: 8px;
+        }
+
+        h2 {
+            color: #34495e;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>💻 Software Engineering Notes</h1>
+
+    <div class="topic">
+        <h2>What is Software Engineering?</h2>
+        <p>Software engineering is the systematic approach used to develop, test and maintain software.</p>
+    </div>
+
+    <div class="topic">
+        <h2>Software Process</h2>
+        <p>A software process describes the activities followed during software development.</p>
+    </div>
+
+    <div class="topic">
+        <h2>Requirements</h2>
+        <p>Requirements describe what the software should do and what users expect from it.</p>
+    </div>
+
+    <div class="topic">
+        <h2>Design</h2>
+        <p>Design describes how the software will be structured and how its components will work together.</p>
+    </div>
+
+    <div class="topic">
+        <h2>Testing</h2>
+        <p>Testing is performed to find errors and check whether the software works as expected.</p>
+    </div>
+
+    <div class="topic">
+        <h2>Maintenance</h2>
+        <p>Maintenance involves updating and improving software after it is delivered.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
