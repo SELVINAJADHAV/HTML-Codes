@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algorithm Steps</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff8e8;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #b26a00;
+        }
+
+        .step {
+            background: #fff2cc;
+            margin: 15px 0;
+            padding: 18px;
+            border-radius: 10px;
+        }
+
+        .number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #b26a00;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🧠 How to Create an Algorithm</h1>
+
+    <div class="step">
+        <span class="number">1.</span>
+        <h2>Understand the Problem</h2>
+        <p>Read the problem carefully and identify what needs to be solved.</p>
+    </div>
+
+    <div class="step">
+        <span class="number">2.</span>
+        <h2>Identify Input</h2>
+        <p>Determine what information is required by the program.</p>
+    </div>
+
+    <div class="step">
+        <span class="number">3.</span>
+        <h2>Plan the Steps</h2>
+        <p>Write the logical steps needed to solve the problem.</p>
+    </div>
+
+    <div class="step">
+        <span class="number">4.</span>
+        <h2>Produce Output</h2>
+        <p>Determine the expected result of the algorithm.</p>
+    </div>
+
+    <div class="step">
+        <span class="number">5.</span>
+        <h2>Test the Algorithm</h2>
+        <p>Check the steps using different examples and inputs.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
