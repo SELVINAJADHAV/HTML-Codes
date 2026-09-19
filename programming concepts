@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Concepts</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f3ff;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #5b35b5;
+        }
+
+        .concept {
+            padding: 18px;
+            margin: 15px 0;
+            background: #f1edff;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #5b35b5;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>👨‍💻 Basic Programming Concepts</h1>
+
+    <div class="concept">
+        <h2>1. Variable</h2>
+        <p>A variable stores information that can be used by a program.</p>
+    </div>
+
+    <div class="concept">
+        <h2>2. Data Type</h2>
+        <p>Data types define what kind of value a variable can store.</p>
+    </div>
+
+    <div class="concept">
+        <h2>3. Conditional Statement</h2>
+        <p>Conditional statements allow a program to make decisions.</p>
+    </div>
+
+    <div class="concept">
+        <h2>4. Loop</h2>
+        <p>A loop repeats a set of instructions multiple times.</p>
+    </div>
+
+    <div class="concept">
+        <h2>5. Function</h2>
+        <p>A function is a reusable block of code designed to perform a task.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
