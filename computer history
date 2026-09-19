@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer History</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef6ff;
+            margin: 0;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2457a6;
+        }
+
+        .year {
+            background: #f1f6ff;
+            padding: 18px;
+            margin: 15px 0;
+            border-left: 5px solid #2457a6;
+            border-radius: 8px;
+        }
+
+        h2 {
+            color: #2457a6;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>💻 History of Computers</h1>
+
+    <div class="year">
+        <h2>1940s — First Computers</h2>
+        <p>Early computers were very large machines used mainly for scientific and military calculations.</p>
+    </div>
+
+    <div class="year">
+        <h2>1950s — Transistors</h2>
+        <p>Transistors replaced large vacuum tubes and made computers smaller and more reliable.</p>
+    </div>
+
+    <div class="year">
+        <h2>1970s — Microprocessors</h2>
+        <p>Microprocessors helped make smaller and more affordable computers possible.</p>
+    </div>
+
+    <div class="year">
+        <h2>1980s — Personal Computers</h2>
+        <p>Personal computers became increasingly common in homes, schools and offices.</p>
+    </div>
+
+    <div class="year">
+        <h2>Today — Modern Computing</h2>
+        <p>Computers are now used in education, business, communication, entertainment and science.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
