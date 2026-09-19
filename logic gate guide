@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logic Gate Guide</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff3f7;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #c23868;
+        }
+
+        .gate {
+            padding: 18px;
+            margin: 15px 0;
+            background: #ffe8f0;
+            border-radius: 10px;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        td, th {
+            border: 1px solid #aaa;
+            padding: 8px 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>⚡ Logic Gates</h1>
+
+    <div class="gate">
+        <h2>AND Gate</h2>
+        <p>Output is 1 only when all inputs are 1.</p>
+
+        <table>
+            <tr>
+                <th>A</th>
+                <th>B</th>
+                <th>Output</th>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>1</td>
+                <td>1</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="gate">
+        <h2>OR Gate</h2>
+        <p>Output is 1 when at least one input is 1.</p>
+    </div>
+
+    <div class="gate">
+        <h2>NOT Gate</h2>
+        <p>NOT gate gives the opposite value of the input.</p>
+        <p>0 → 1 &nbsp;&nbsp; 1 → 0</p>
+    </div>
+
+    <div class="gate">
+        <h2>XOR Gate</h2>
+        <p>Output is 1 when the inputs are different.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
