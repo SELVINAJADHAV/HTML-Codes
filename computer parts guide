@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Parts Guide</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef5ff;
+            margin: 0;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2457a6;
+        }
+
+        .part {
+            background: #f1f6ff;
+            padding: 18px;
+            margin: 15px 0;
+            border-radius: 12px;
+            border-left: 5px solid #2457a6;
+        }
+
+        h2 {
+            color: #2457a6;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🖥️ Computer Parts Guide</h1>
+
+    <div class="part">
+        <h2>CPU</h2>
+        <p>The CPU processes instructions and performs calculations for the computer.</p>
+    </div>
+
+    <div class="part">
+        <h2>RAM</h2>
+        <p>RAM temporarily stores data that the computer is currently using.</p>
+    </div>
+
+    <div class="part">
+        <h2>Storage</h2>
+        <p>Storage devices such as SSDs and hard drives store files and programs.</p>
+    </div>
+
+    <div class="part">
+        <h2>Motherboard</h2>
+        <p>The motherboard connects important computer components together.</p>
+    </div>
+
+    <div class="part">
+        <h2>Monitor</h2>
+        <p>A monitor displays text, images, videos and other visual information.</p>
+    </div>
+
+    <div class="part">
+        <h2>Keyboard and Mouse</h2>
+        <p>These are input devices used to interact with the computer.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
