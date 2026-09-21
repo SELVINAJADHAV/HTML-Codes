@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operating System Guide</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f1ff;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #633bb5;
+        }
+
+        .os {
+            padding: 18px;
+            margin: 15px 0;
+            background: #f0eaff;
+            border-radius: 12px;
+        }
+
+        h2 {
+            color: #633bb5;
+        }
+
+        li {
+            margin: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>⚙️ Operating System Guide</h1>
+
+    <div class="os">
+        <h2>What is an Operating System?</h2>
+        <p>
+            An operating system is system software that manages computer
+            hardware and provides services for applications.
+        </p>
+    </div>
+
+    <div class="os">
+        <h2>Examples</h2>
+        <ul>
+            <li>Windows</li>
+            <li>Linux</li>
+            <li>macOS</li>
+            <li>Android</li>
+            <li>iOS</li>
+        </ul>
+    </div>
+
+    <div class="os">
+        <h2>Main Functions</h2>
+        <ul>
+            <li>Memory management</li>
+            <li>File management</li>
+            <li>Process management</li>
+            <li>Device management</li>
+            <li>Security management</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
