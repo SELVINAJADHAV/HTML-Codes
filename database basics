@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Database Basics</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eefbf7;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #147d61;
+        }
+
+        .topic {
+            background: #e6f8f1;
+            padding: 18px;
+            margin: 15px 0;
+            border-radius: 12px;
+        }
+
+        h2 {
+            color: #147d61;
+        }
+
+        code {
+            background: white;
+            padding: 5px 8px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🗄️ Database Basics</h1>
+
+    <div class="topic">
+        <h2>What is a Database?</h2>
+        <p>
+            A database is an organized collection of data that can be
+            stored, accessed and managed efficiently.
+        </p>
+    </div>
+
+    <div class="topic">
+        <h2>Table</h2>
+        <p>
+            A table stores related information using rows and columns.
+        </p>
+    </div>
+
+    <div class="topic">
+        <h2>Record</h2>
+        <p>
+            A record is a single row containing information about one item.
+        </p>
+    </div>
+
+    <div class="topic">
+        <h2>Field</h2>
+        <p>
+            A field represents a particular type of information in a table.
+        </p>
+    </div>
+
+    <div class="topic">
+        <h2>Example</h2>
+        <p>
+            A student database may contain fields such as
+            <code>ID</code>, <code>Name</code>, <code>Course</code> and
+            <code>Marks</code>.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
