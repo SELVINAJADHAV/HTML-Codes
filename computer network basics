@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Network Basics</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef9ff;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #087ea4;
+        }
+
+        .network {
+            padding: 18px;
+            margin: 15px 0;
+            background: #e4f7fc;
+            border-radius: 12px;
+        }
+
+        h2 {
+            color: #087ea4;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🌐 Computer Network Basics</h1>
+
+    <div class="network">
+        <h2>What is a Network?</h2>
+        <p>
+            A computer network connects devices so that they can
+            communicate and share information.
+        </p>
+    </div>
+
+    <div class="network">
+        <h2>LAN</h2>
+        <p>
+            Local Area Network connects devices within a limited area,
+            such as a school or office.
+        </p>
+    </div>
+
+    <div class="network">
+        <h2>WAN</h2>
+        <p>
+            Wide Area Network covers a large geographical area.
+        </p>
+    </div>
+
+    <div class="network">
+        <h2>Router</h2>
+        <p>
+            A router helps direct data between different networks.
+        </p>
+    </div>
+
+    <div class="network">
+        <h2>Network Benefits</h2>
+        <ul>
+            <li>File sharing</li>
+            <li>Resource sharing</li>
+            <li>Communication</li>
+            <li>Internet access</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
