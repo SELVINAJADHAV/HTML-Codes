@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Subject Guide</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef4ff;
+            margin: 0;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #3157a6;
+        }
+
+        .subject {
+            padding: 18px;
+            margin: 15px 0;
+            background: #f1f5ff;
+            border-left: 5px solid #3157a6;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #3157a6;
+        }
+
+        .tag {
+            display: inline-block;
+            background: white;
+            padding: 7px 12px;
+            border-radius: 15px;
+            margin: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🎓 College Subject Guide</h1>
+
+    <div class="subject">
+        <h2>💻 Programming</h2>
+        <p>Learn programming logic, syntax, variables, conditions, loops and functions.</p>
+        <span class="tag">C</span>
+        <span class="tag">Python</span>
+    </div>
+
+    <div class="subject">
+        <h2>🗄️ Database Management</h2>
+        <p>Study databases, tables, keys, SQL queries and relationships.</p>
+        <span class="tag">SQL</span>
+        <span class="tag">DBMS</span>
+    </div>
+
+    <div class="subject">
+        <h2>🌐 Web Development</h2>
+        <p>Learn how websites are structured and styled.</p>
+        <span class="tag">HTML</span>
+        <span class="tag">CSS</span>
+    </div>
+
+    <div class="subject">
+        <h2>⚙️ Software Engineering</h2>
+        <p>Understand software development processes, requirements, design and testing.</p>
+        <span class="tag">SDLC</span>
+        <span class="tag">Testing</span>
+    </div>
+
+</div>
+
+</body>
+</html>
