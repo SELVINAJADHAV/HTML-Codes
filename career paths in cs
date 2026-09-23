@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Paths in Computer Science</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff7ed;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: #b56308;
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+        }
+
+        .career {
+            background: white;
+            padding: 20px;
+            margin: 18px 0;
+            border-radius: 15px;
+            border-top: 5px solid #b56308;
+        }
+
+        h2 {
+            color: #b56308;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🚀 Career Paths in Computer Science</h1>
+
+    <div class="career">
+        <h2>💻 Software Developer</h2>
+        <p>Develops and maintains software applications.</p>
+
+        <ul>
+            <li>Programming</li>
+            <li>Problem Solving</li>
+            <li>Testing</li>
+        </ul>
+    </div>
+
+    <div class="career">
+        <h2>🌐 Web Developer</h2>
+        <p>Creates and maintains websites and web applications.</p>
+
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Web Design</li>
+        </ul>
+    </div>
+
+    <div class="career">
+        <h2>🗄️ Database Professional</h2>
+        <p>Works with databases and helps manage stored information.</p>
+
+        <ul>
+            <li>SQL</li>
+            <li>Database Design</li>
+            <li>Data Management</li>
+        </ul>
+    </div>
+
+    <div class="career">
+        <h2>🔐 Cybersecurity Professional</h2>
+        <p>Works on protecting systems, networks and information.</p>
+
+        <ul>
+            <li>Security Concepts</li>
+            <li>Networking</li>
+            <li>Risk Awareness</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
