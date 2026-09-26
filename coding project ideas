@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Project Ideas</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f3f7ff;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: #315aa8;
+        }
+
+        .project {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 14px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.07);
+        }
+
+        .project h2 {
+            color: #315aa8;
+        }
+
+        .level {
+            display: inline-block;
+            padding: 7px 12px;
+            background: #e8efff;
+            border-radius: 15px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>💡 Coding Project Ideas</h1>
+
+    <div class="project">
+        <h2>1. Student Marks Calculator</h2>
+        <p>Create a program that calculates total and average marks.</p>
+        <span class="level">Beginner</span>
+    </div>
+
+    <div class="project">
+        <h2>2. Quiz Application</h2>
+        <p>Create a simple application containing questions and answers.</p>
+        <span class="level">Beginner</span>
+    </div>
+
+    <div class="project">
+        <h2>3. Library Management System</h2>
+        <p>Create a system to manage books and student borrowing records.</p>
+        <span class="level">Intermediate</span>
+    </div>
+
+    <div class="project">
+        <h2>4. Personal Portfolio</h2>
+        <p>Create a website that introduces your skills, education and projects.</p>
+        <span class="level">Beginner</span>
+    </div>
+
+    <div class="project">
+        <h2>5. Expense Tracker</h2>
+        <p>Create a project to record income and expenses.</p>
+        <span class="level">Intermediate</span>
+    </div>
+
+</div>
+
+</body>
+</html>
