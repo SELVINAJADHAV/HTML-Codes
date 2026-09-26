@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Question Categories</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff1f4;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #b73561;
+        }
+
+        .category {
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 12px;
+            background: #ffe8ee;
+        }
+
+        h2 {
+            color: #b73561;
+        }
+
+        .marks {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📝 Exam Question Categories</h1>
+
+    <div class="category">
+        <h2>1 Mark Questions</h2>
+        <p>Usually require short definitions, terms or direct answers.</p>
+        <p class="marks">Focus: Key concepts</p>
+    </div>
+
+    <div class="category">
+        <h2>2 Mark Questions</h2>
+        <p>Usually require a short explanation with important points.</p>
+        <p class="marks">Focus: Understanding</p>
+    </div>
+
+    <div class="category">
+        <h2>3–4 Mark Questions</h2>
+        <p>Usually require explanations, examples or multiple points.</p>
+        <p class="marks">Focus: Detailed concepts</p>
+    </div>
+
+    <div class="category">
+        <h2>Long Answer Questions</h2>
+        <p>Require structured explanations, diagrams, examples or comparisons.</p>
+        <p class="marks">Focus: Complete understanding</p>
+    </div>
+
+</div>
+
+</body>
+</html>
