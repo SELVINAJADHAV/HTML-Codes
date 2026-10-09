@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Testing Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #edfaf5;
+            padding: 25px;
+        }
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+        }
+        h1 { text-align: center; color: #167b5d; }
+        .test {
+            background: #e8f8f1;
+            padding: 18px;
+            margin: 15px 0;
+            border-radius: 12px;
+        }
+        h2 { color: #167b5d; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🧪 Software Testing Guide</h1>
+
+    <div class="test">
+        <h2>Unit Testing</h2>
+        <p>Checks individual functions or small parts of a program.</p>
+    </div>
+
+    <div class="test">
+        <h2>Integration Testing</h2>
+        <p>Checks whether different software components work together correctly.</p>
+    </div>
+
+    <div class="test">
+        <h2>System Testing</h2>
+        <p>Tests the complete application as a whole.</p>
+    </div>
+
+    <div class="test">
+        <h2>Acceptance Testing</h2>
+        <p>Checks whether the software meets user or business requirements.</p>
+    </div>
+
+    <div class="test">
+        <h2>Why Is Testing Important?</h2>
+        <p>Testing helps find defects, improve reliability and check that software behaves as expected.</p>
+    </div>
+</div>
+</body>
+</html>
