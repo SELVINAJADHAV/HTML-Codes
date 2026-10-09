@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Resource Shelf</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f2ff;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #7045aa;
+        }
+
+        .resource {
+            padding: 18px;
+            margin: 15px 0;
+            background: #f1eaff;
+            border-radius: 12px;
+        }
+
+        .resource h2 {
+            color: #7045aa;
+        }
+
+        .type {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📚 My Study Resource Shelf</h1>
+
+    <div class="resource">
+        <h2>💻 Programming Notes</h2>
+        <p class="type">Type: Notes</p>
+        <p>Important programming concepts, syntax and examples.</p>
+    </div>
+
+    <div class="resource">
+        <h2>🗄️ Database Reference</h2>
+        <p class="type">Type: Reference</p>
+        <p>Useful topics about tables, keys, relationships and SQL.</p>
+    </div>
+
+    <div class="resource">
+        <h2>📝 Practice Questions</h2>
+        <p class="type">Type: Practice</p>
+        <p>A collection of questions for revision and self-practice.</p>
+    </div>
+
+    <div class="resource">
+        <h2>📖 Revision Notes</h2>
+        <p class="type">Type: Quick Revision</p>
+        <p>Short points that can be reviewed before an examination.</p>
+    </div>
+
+    <div class="resource">
+        <h2>🧠 Important Definitions</h2>
+        <p class="type">Type: Quick Reference</p>
+        <p>A collection of important terms and their meanings.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
