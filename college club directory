@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Club Directory</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff7ed;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: #a95d12;
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+        }
+
+        .club {
+            background: white;
+            padding: 20px;
+            margin: 18px 0;
+            border-radius: 14px;
+        }
+
+        .club h2 {
+            color: #a95d12;
+        }
+
+        .club p {
+            line-height: 1.6;
+        }
+
+        .activity {
+            display: inline-block;
+            padding: 7px 12px;
+            margin: 5px;
+            background: #fff0dc;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🏫 College Club Directory</h1>
+
+    <div class="club">
+        <h2>💻 Coding Club</h2>
+        <p>
+            A place for students interested in programming,
+            technology and software projects.
+        </p>
+
+        <span class="activity">Coding Practice</span>
+        <span class="activity">Project Building</span>
+        <span class="activity">Tech Events</span>
+    </div>
+
+    <div class="club">
+        <h2>🎨 Creative Club</h2>
+        <p>
+            Students can explore creativity through art, design
+            and other creative activities.
+        </p>
+
+        <span class="activity">Drawing</span>
+        <span class="activity">Design</span>
+        <span class="activity">Photography</span>
+    </div>
+
+    <div class="club">
+        <h2>📚 Reading Club</h2>
+        <p>
+            Students discuss books, articles and interesting ideas.
+        </p>
+
+        <span class="activity">Book Discussion</span>
+        <span class="activity">Reading Sessions</span>
+    </div>
+
+    <div class="club">
+        <h2>🎤 Communication Club</h2>
+        <p>
+            Helps students practice speaking, presentations and
+            group discussions.
+        </p>
+
+        <span class="activity">Public Speaking</span>
+        <span class="activity">Debates</span>
+        <span class="activity">GD Practice</span>
+    </div>
+
+</div>
+
+</body>
+</html>
