@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Privacy Classroom</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff0f4;
+            padding: 25px;
+        }
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+        }
+        h1 { text-align: center; color: #b73561; }
+        .tip {
+            background: #ffe8ef;
+            padding: 18px;
+            margin: 15px 0;
+            border-radius: 12px;
+        }
+        h2 { color: #b73561; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🔐 Data Privacy Classroom</h1>
+
+    <div class="tip">
+        <h2>Personal Information</h2>
+        <p>Be careful when sharing your address, phone number or other private information online.</p>
+    </div>
+
+    <div class="tip">
+        <h2>Strong Passwords</h2>
+        <p>Use long, unique passwords for different accounts.</p>
+    </div>
+
+    <div class="tip">
+        <h2>App Permissions</h2>
+        <p>Review which permissions an app requests and allow only what it needs.</p>
+    </div>
+
+    <div class="tip">
+        <h2>Secure Connections</h2>
+        <p>Be cautious when using public Wi-Fi, especially when accessing sensitive accounts.</p>
+    </div>
+
+    <div class="tip">
+        <h2>Think Before Sharing</h2>
+        <p>Check who can see your posts, photos and shared files before publishing them.</p>
+    </div>
+
+    <div class="tip">
+        <h2>Remember</h2>
+        <p>Protecting privacy is an important part of being a responsible digital citizen.</p>
+    </div>
+</div>
+</body>
+</html>
