@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Science Glossary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f2ff;
+            padding: 25px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+        }
+        h1 { text-align: center; color: #6040a6; }
+        .entry {
+            display: grid;
+            grid-template-columns: 160px 1fr;
+            gap: 15px;
+            padding: 16px;
+            margin: 12px 0;
+            background: #f1edff;
+            border-radius: 10px;
+        }
+        .term { font-weight: bold; color: #6040a6; }
+        @media (max-width: 500px) {
+            .entry { grid-template-columns: 1fr; gap: 5px; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>📘 Computer Science Glossary</h1>
+
+    <div class="entry">
+        <div class="term">Algorithm</div>
+        <div>A sequence of steps for solving a problem.</div>
+    </div>
+
+    <div class="entry">
+        <div class="term">Data Structure</div>
+        <div>A way to organize and store data for efficient use.</div>
+    </div>
+
+    <div class="entry">
+        <div class="term">Operating System</div>
+        <div>System software that manages computer resources.</div>
+    </div>
+
+    <div class="entry">
+        <div class="term">Database</div>
+        <div>An organized collection of related information.</div>
+    </div>
+
+    <div class="entry">
+        <div class="term">Network</div>
+        <div>A group of connected devices that can exchange data.</div>
+    </div>
+
+    <div class="entry">
+        <div class="term">Source Code</div>
+        <div>Instructions written by a programmer in a programming language.</div>
+    </div>
+
+    <div class="entry">
+        <div class="term">Interface</div>
+        <div>A point of interaction between a user or system and another system.</div>
+    </div>
+
+    <div class="entry">
+        <div class="term">Debugging</div>
+        <div>The process of locating and correcting software defects.</div>
+    </div>
+</div>
+</body>
+</html>
