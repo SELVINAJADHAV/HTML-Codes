@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Method Cards</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff4f7;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: #b73868;
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+        }
+
+        .method {
+            background: white;
+            padding: 22px;
+            margin: 18px 0;
+            border-radius: 14px;
+            border-left: 6px solid #b73868;
+        }
+
+        .method h2 {
+            color: #b73868;
+        }
+
+        .steps {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🧠 Study Method Cards</h1>
+
+    <div class="method">
+        <h2>📖 Active Recall</h2>
+        <p>
+            Try to remember information without looking at your notes.
+        </p>
+
+        <div class="steps">
+            <strong>Steps:</strong>
+            <ol>
+                <li>Read the topic.</li>
+                <li>Close your notes.</li>
+                <li>Recall the main points.</li>
+                <li>Check your answer.</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="method">
+        <h2>🔄 Spaced Revision</h2>
+        <p>
+            Review information at different intervals instead of studying
+            everything at once.
+        </p>
+    </div>
+
+    <div class="method">
+        <h2>🗺️ Mind Mapping</h2>
+        <p>
+            Organize related ideas around a central topic using branches.
+        </p>
+    </div>
+
+    <div class="method">
+        <h2>✍️ Practice Testing</h2>
+        <p>
+            Test yourself using questions, quizzes or previous practice material.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
