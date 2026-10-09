@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number System Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f0ff;
+            padding: 25px;
+        }
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+        }
+        h1 { text-align: center; color: #7042b8; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td {
+            padding: 14px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+        th { background: #eee5ff; }
+        .example {
+            background: #f5f0ff;
+            padding: 18px;
+            margin-top: 20px;
+            border-radius: 12px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🔢 Number Systems</h1>
+    <p>Number systems represent numbers using different sets of digits.</p>
+
+    <table>
+        <tr><th>System</th><th>Base</th><th>Digits</th></tr>
+        <tr><td>Binary</td><td>2</td><td>0, 1</td></tr>
+        <tr><td>Octal</td><td>8</td><td>0–7</td></tr>
+        <tr><td>Decimal</td><td>10</td><td>0–9</td></tr>
+        <tr><td>Hexadecimal</td><td>16</td><td>0–9, A–F</td></tr>
+    </table>
+
+    <div class="example">
+        <h2>Example</h2>
+        <p>Decimal 10 = Binary 1010</p>
+        <p>Decimal 15 = Hexadecimal F</p>
+        <p>Binary numbers are widely used in digital computers.</p>
+    </div>
+</div>
+</body>
+</html>
