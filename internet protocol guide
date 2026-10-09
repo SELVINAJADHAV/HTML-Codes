@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internet Protocol Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eafaff;
+            padding: 25px;
+        }
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+        }
+        h1 { text-align: center; color: #087a9e; }
+        .protocol {
+            background: #e4f7fc;
+            padding: 18px;
+            margin: 15px 0;
+            border-radius: 12px;
+        }
+        h2 { color: #087a9e; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🌐 Internet Protocol Guide</h1>
+
+    <div class="protocol">
+        <h2>HTTP</h2>
+        <p>Transfers information between web browsers and web servers.</p>
+    </div>
+
+    <div class="protocol">
+        <h2>HTTPS</h2>
+        <p>Uses encryption to help protect data exchanged with a website.</p>
+    </div>
+
+    <div class="protocol">
+        <h2>TCP/IP</h2>
+        <p>A suite of networking protocols that enables devices to communicate across networks.</p>
+    </div>
+
+    <div class="protocol">
+        <h2>DNS</h2>
+        <p>Helps translate domain names into IP addresses.</p>
+    </div>
+
+    <div class="protocol">
+        <h2>FTP</h2>
+        <p>A protocol designed for transferring files between systems.</p>
+    </div>
+
+    <div class="protocol">
+        <h2>Why Protocols Matter</h2>
+        <p>Protocols define common rules that allow different devices and applications to communicate.</p>
+    </div>
+</div>
+</body>
+</html>
