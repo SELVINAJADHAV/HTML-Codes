@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flowchart Symbols Guide</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f3f0ff;margin:0;padding:25px;color:#29234a}
+header{text-align:center;background:#6c5ce7;color:white;padding:25px;border-radius:18px}
+main{max-width:850px;margin:25px auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.card{background:white;padding:22px;border-radius:14px;text-align:center;box-shadow:0 4px 12px #ddd}
+.symbol{font-size:22px;font-weight:bold;color:#6c5ce7;background:#eeeaff;padding:15px;border-radius:10px;margin:12px 0}
+footer{text-align:center;padding:15px}
+</style>
+</head>
+<body>
+<header>
+<h1>🔷 Flowchart Symbols Guide</h1>
+<p>Understand the building blocks of a flowchart.</p>
+</header>
+<main>
+<div class="card"><h2>Start / End</h2><div class="symbol"> ( START ) </div><p>Shows where a process begins or finishes.</p></div>
+<div class="card"><h2>Process</h2><div class="symbol">[ Process ]</div><p>Represents an instruction or action.</p></div>
+<div class="card"><h2>Decision</h2><div class="symbol">◇ Yes / No ◇</div><p>Represents a condition with possible outcomes.</p></div>
+<div class="card"><h2>Input / Output</h2><div class="symbol">/ Input /</div><p>Shows data entering or leaving a system.</p></div>
+<div class="card"><h2>Flow Line</h2><div class="symbol">──────→</div><p>Shows the direction of the process.</p></div>
+<div class="card"><h2>Connector</h2><div class="symbol">○</div><p>Connects different parts of a flowchart.</p></div>
+</main>
+<footer>Keep learning, one symbol at a time! 💜</footer>
+</body>
+</html>
