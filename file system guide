@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>File System Guide</title>
+<style>
+body{font-family:Arial,sans-serif;background:#fff7e8;margin:0;padding:25px;color:#44351e}
+header{text-align:center;background:#f4a261;color:white;padding:25px;border-radius:18px}
+main{max-width:800px;margin:25px auto}
+section{background:white;padding:20px;margin-bottom:15px;border-radius:14px}
+code{background:#ffefd1;padding:5px 9px;border-radius:6px}
+li{margin:12px 0}
+</style>
+</head>
+<body>
+<header><h1>📁 File System Guide</h1><p>Organize your digital study materials.</p></header>
+<main>
+<section><h2>What is a File?</h2><p>A file stores information such as text, pictures, videos or program code.</p></section>
+<section><h2>What is a Folder?</h2><p>A folder groups files and other folders to keep information organized.</p></section>
+<section>
+<h2>Common File Extensions</h2>
+<ul>
+<li><code>.html</code> — Web page</li>
+<li><code>.css</code> — Web page styling</li>
+<li><code>.py</code> — Python source code</li>
+<li><code>.txt</code> — Plain text</li>
+<li><code>.pdf</code> — Portable document</li>
+<li><code>.jpg</code> — Image file</li>
+<li><code>.mp3</code> — Audio file</li>
+<li><code>.xlsx</code> — Excel workbook</li>
+</ul>
+</section>
+<section><h2>Example Folder Structure</h2>
+<p>📁 College Work</p>
+<p>　📁 HTML Projects</p>
+<p>　　📄 index.html</p>
+<p>　　📄 style.css</p>
+<p>　📁 Notes</p>
+<p>　　📄 computer_notes.pdf</p>
+</section>
+<section><h2>Organization Tip 💡</h2><p>Use meaningful filenames, create subject-wise folders and keep a backup of important work.</p></section>
+</main>
+</body>
+</html>
