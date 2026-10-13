@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project Presentation Tips</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eef5ff;color:#263858;margin:0;padding:25px}
+header{text-align:center;background:#3768b0;color:white;padding:28px;border-radius:18px}
+main{max-width:800px;margin:25px auto}
+.tip{background:white;margin:14px 0;padding:18px;border-radius:14px;border-left:5px solid #5689d8}
+.number{display:inline-block;background:#dce9ff;padding:8px 12px;border-radius:50%;font-weight:bold;margin-right:8px}
+footer{text-align:center;background:#dce9ff;padding:18px;border-radius:12px;margin-top:20px}
+</style>
+</head>
+<body>
+<header><h1>🎤 Project Presentation Tips</h1><p>Prepare, practise and present with confidence.</p></header>
+<main>
+<div class="tip"><h2><span class="number">1</span>Start with an Introduction</h2><p>Greet your teacher and classmates, then clearly say your project title.</p></div>
+<div class="tip"><h2><span class="number">2</span>Explain the Problem</h2><p>Describe the problem your project aims to solve and why it matters.</p></div>
+<div class="tip"><h2><span class="number">3</span>Describe the Technology</h2><p>Explain the programming languages, tools and database used in your project.</p></div>
+<div class="tip"><h2><span class="number">4</span>Show the Working</h2><p>Demonstrate the main features in a clear order. Test your project before presenting.</p></div>
+<div class="tip"><h2><span class="number">5</span>Practise Viva Questions</h2><p>Prepare simple explanations of the project objective, features, design and limitations.</p></div>
+<div class="tip"><h2><span class="number">6</span>Finish Politely</h2><p>Summarize the main benefit and invite questions from the audience.</p></div>
+<footer><h2>✨ Your Checklist</h2><p>✓ Slides ready　 ✓ Demo tested　 ✓ Team practised　 ✓ Questions prepared</p></footer>
+</main>
+</body>
+</html>
