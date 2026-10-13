@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Computer Ports Guide</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eaf7ff;color:#19334a;margin:0;padding:25px}
+header{text-align:center;background:#168aad;color:white;padding:25px;border-radius:16px}
+main{max-width:850px;margin:25px auto}
+.port{background:white;margin:15px 0;padding:20px;border-radius:12px;border-left:6px solid #168aad}
+h2{margin-top:0}
+.tag{background:#d5f2ff;padding:5px 10px;border-radius:20px;font-size:13px}
+</style>
+</head>
+<body>
+<header><h1>🔌 Computer Ports Guide</h1><p>Discover how devices connect to computers.</p></header>
+<main>
+<div class="port"><h2>USB Port</h2><span class="tag">Data and Power</span><p>Connects keyboards, mice, storage drives and other devices.</p></div>
+<div class="port"><h2>HDMI Port</h2><span class="tag">Audio and Video</span><p>Connects a computer to a monitor, television or projector.</p></div>
+<div class="port"><h2>Ethernet Port</h2><span class="tag">Networking</span><p>Provides a wired network connection using an Ethernet cable.</p></div>
+<div class="port"><h2>Audio Jack</h2><span class="tag">Sound</span><p>Connects compatible headphones, speakers or microphones.</p></div>
+<div class="port"><h2>USB-C Port</h2><span class="tag">Versatile Connection</span><p>Can support charging, data transfer and video, depending on the device.</p></div>
+<div class="port"><h2>DisplayPort</h2><span class="tag">Display</span><p>Connects computers to compatible monitors for digital video and audio.</p></div>
+</main>
+</body>
+</html>
