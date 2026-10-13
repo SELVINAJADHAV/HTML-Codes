@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Network Topologies</title>
+<style>
+body{font-family:Arial,sans-serif;background:#effaf4;color:#204637;margin:0;padding:25px}
+header{text-align:center;background:#218c74;color:white;padding:25px;border-radius:18px}
+main{max-width:850px;margin:25px auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+article{background:white;padding:20px;border-radius:15px;box-shadow:0 4px 10px #d5e7dc}
+.diagram{font-family:monospace;font-size:19px;white-space:pre-line;text-align:center;background:#e4f6ec;padding:18px;border-radius:10px}
+h2{color:#218c74}
+</style>
+</head>
+<body>
+<header><h1>🌐 Network Topologies</h1><p>How computers can be arranged in a network.</p></header>
+<main>
+<article><h2>Star Topology</h2><div class="diagram"> PC ─┐
+PC ─┼─ Switch
+PC ─┘</div><p>Devices connect to a central switch or hub. Easy to manage, but the central device matters.</p></article>
+<article><h2>Bus Topology</h2><div class="diagram">PC ─ PC ─ PC ─ PC</div><p>Devices share one main communication cable.</p></article>
+<article><h2>Ring Topology</h2><div class="diagram">PC ─ PC
+│　　 │
+PC ─ PC</div><p>Each device connects to neighboring devices in a ring.</p></article>
+<article><h2>Mesh Topology</h2><div class="diagram">A ─── B
+|\　 /|
+| \ / |
+| / \ |
+C ─── D</div><p>Devices have multiple connections, which can provide alternate paths.</p></article>
+<article><h2>Tree Topology</h2><div class="diagram">　Root
+　 /　\
+ A　　B
+/ \　 / \
+C D　E F</div><p>Devices are organized in a hierarchy of branches.</p></article>
+<article><h2>Hybrid Topology</h2><div class="diagram">Star + Bus
+or
+Star + Ring</div><p>Combines two or more network topology types.</p></article>
+</main>
+</body>
+</html>
