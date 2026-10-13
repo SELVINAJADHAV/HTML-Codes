@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Database Normalization Guide</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f5f1ff;color:#30264d;margin:0;padding:25px}
+header{text-align:center;background:#7057c8;color:white;padding:25px;border-radius:16px}
+main{max-width:850px;margin:25px auto}
+.level{background:white;padding:20px;margin:15px 0;border-radius:14px;border-left:6px solid #7057c8}
+table{width:100%;border-collapse:collapse;margin-top:12px;background:white}
+th,td{padding:10px;border:1px solid #ddd;text-align:left}
+th{background:#eee8ff}
+</style>
+</head>
+<body>
+<header><h1>🗃️ Database Normalization</h1><p>Organize database tables to reduce unnecessary repetition.</p></header>
+<main>
+<div class="level"><h2>What is Normalization?</h2><p>It is the process of structuring database tables to reduce redundancy and improve data consistency.</p></div>
+<div class="level"><h2>First Normal Form (1NF)</h2><p>Each column should contain a single value in each row, with no repeating groups.</p></div>
+<div class="level"><h2>Second Normal Form (2NF)</h2><p>The table must be in 1NF, and every non-key attribute must depend on the whole candidate key, not just part of a composite key.</p></div>
+<div class="level"><h2>Third Normal Form (3NF)</h2><p>The table must be in 2NF, and non-key attributes should not depend transitively on a candidate key.</p></div>
+<div class="level">
+<h2>Example: Student Information</h2>
+<table>
+<tr><th>Student ID</th><th>Student Name</th><th>Course ID</th></tr>
+<tr><td>101</td><td>Aarav</td><td>CS01</td></tr>
+<tr><td>102</td><td>Diya</td><td>CS02</td></tr>
+</table>
+<p>Keep student details in a student table and course details in a course table when doing so avoids repeating the same information.</p>
+</div>
+<div class="level"><h2>Why is it Useful?</h2><p>It helps reduce duplicate data and makes updates more reliable.</p></div>
+</main>
+</body>
+</html>
