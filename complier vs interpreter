@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Compiler vs Interpreter</title>
+<style>
+body{font-family:Arial,sans-serif;background:#fff0f4;color:#4b2634;margin:0;padding:25px}
+header{text-align:center;background:#d95d82;color:white;padding:25px;border-radius:18px}
+main{max-width:850px;margin:25px auto}
+table{width:100%;border-collapse:collapse;background:white;border-radius:12px;overflow:hidden}
+th,td{padding:14px;text-align:left;border:1px solid #f0d6df}
+th{background:#fbd6e1}
+section{background:white;margin-top:20px;padding:20px;border-radius:14px}
+</style>
+</head>
+<body>
+<header><h1>⚙️ Compiler vs Interpreter</h1><p>Two approaches to translating and running programs.</p></header>
+<main>
+<table>
+<tr><th>Feature</th><th>Compiler</th><th>Interpreter</th></tr>
+<tr><td>How it works</td><td>Translates a program into another form before execution.</td><td>Executes instructions through an interpreter, often step by step.</td></tr>
+<tr><td>Output</td><td>May produce object code or an executable.</td><td>Usually runs code without producing a standalone executable.</td></tr>
+<tr><td>Error reporting</td><td>Many errors are reported during compilation.</td><td>Errors may appear as the relevant code is executed.</td></tr>
+<tr><td>Examples</td><td>C commonly uses a compiler.</td><td>Python commonly uses an interpreter to run bytecode.</td></tr>
+</table>
+<section><h2>Compiler Workflow</h2><p>Source Code → Compilation → Translated Program → Execution</p></section>
+<section><h2>Interpreter Workflow</h2><p>Source Code → Interpreter → Program Execution</p></section>
+<section><h2>Remember 💡</h2><p>Modern language implementations can combine compilation and interpretation. The distinction is useful for learning, but real systems can be more complex.</p></section>
+</main>
+</body>
+</html>
