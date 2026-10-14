@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Backup Guide</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f0f9ff;color:#214154;margin:0;padding:25px}
+header{text-align:center;background:#197a91;color:white;padding:28px;border-radius:18px}
+main{max-width:850px;margin:25px auto}
+.card{background:white;padding:22px;margin:16px 0;border-radius:14px;box-shadow:0 4px 12px #d8eaf0}
+h2{color:#197a91}
+ul{line-height:1.9}
+.tip{background:#ddf5fb;padding:16px;border-radius:10px}
+</style>
+</head>
+<body>
+<header><h1>💾 Data Backup Guide</h1><p>Keep your important digital work safe.</p></header>
+<main>
+<section class="card"><h2>What Is a Backup?</h2><p>A backup is an extra copy of your files that can help you recover them if the originals are lost or damaged.</p></section>
+<section class="card"><h2>Backup Options</h2><ul><li>External hard drive or USB storage</li><li>Trusted cloud storage</li><li>A separate computer or storage device</li></ul></section>
+<section class="card"><h2>The 3-2-1 Rule</h2><p>Keep 3 copies of important data, on 2 different types of storage, with 1 copy stored off-site.</p><p>This is a useful guideline for important files, not a guarantee against every risk.</p></section>
+<section class="card"><h2>What Should Students Back Up?</h2><ul><li>College assignments</li><li>HTML and programming projects</li><li>Presentation slides</li><li>Practical notes and reports</li></ul></section>
+<section class="card"><h2>Good Backup Habits</h2><p class="tip">✓ Back up regularly.<br>✓ Keep copies separate from your main device.<br>✓ Protect cloud accounts with strong security.<br>✓ Test occasionally that your files can be restored.</p></section>
+</main>
+</body>
+</html>
