@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Technical Interview Prep</title>
+<style>
+body{font-family:Arial,sans-serif;background:#fff0f6;color:#482b3a;margin:0;padding:25px}
+header{text-align:center;background:#b94f85;color:white;padding:28px;border-radius:18px}
+main{max-width:850px;margin:25px auto}
+.question{background:white;padding:20px;margin:15px 0;border-radius:14px;border-left:5px solid #d66ca0}
+.question h2{color:#a93670}
+.answer{background:#fff0f7;padding:13px;border-radius:9px}
+footer{text-align:center;padding:20px}
+</style>
+</head>
+<body>
+<header><h1>💼 Technical Interview Prep</h1><p>Practise common beginner Computer Science questions.</p></header>
+<main>
+<article class="question"><h2>1. What is an algorithm?</h2><p class="answer">An algorithm is a finite sequence of clear steps used to solve a problem.</p></article>
+<article class="question"><h2>2. What is a programming language?</h2><p class="answer">It is a language used to write instructions that a computer can process.</p></article>
+<article class="question"><h2>3. What is a database?</h2><p class="answer">A database is an organized collection of data that can be stored, accessed and managed.</p></article>
+<article class="question"><h2>4. What is an operating system?</h2><p class="answer">An operating system manages computer resources and provides services for applications.</p></article>
+<article class="question"><h2>5. What is debugging?</h2><p class="answer">Debugging is the process of finding and fixing errors in a program.</p></article>
+<article class="question"><h2>6. What is Git?</h2><p class="answer">Git is a version control system used to track changes in files and collaborate on projects.</p></article>
+<article class="question"><h2>7. How should you answer?</h2><p class="answer">Listen carefully, explain in your own words, give a simple example and be honest if you do not know something.</p></article>
+<footer><h2>✨ Practise a little every day!</h2><p>Clear explanations matter more than memorizing every word.</p></footer>
+</main>
+</body>
+</html>
