@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Database Relationships</title>
+<style>
+*{box-sizing:border-box}
+body{font-family:Arial,sans-serif;background:#f4f0ff;color:#302650;margin:0;padding:25px}
+header{text-align:center;background:#6c55bd;color:white;padding:28px;border-radius:18px}
+main{max-width:850px;margin:25px auto}
+.card{background:white;padding:22px;margin:16px 0;border-radius:14px;box-shadow:0 4px 12px #e1daf5}
+.diagram{padding:15px;text-align:center;background:#eee8ff;border-radius:10px;font-weight:bold;line-height:2}
+h2{color:#6c55bd}
+</style>
+</head>
+<body>
+<header><h1>🗄️ Database Relationships</h1><p>How database tables connect to each other.</p></header>
+<main>
+<section class="card">
+<h2>One-to-One (1:1)</h2>
+<div class="diagram">Person ───── Passport</div>
+<p>One person has one passport record in this simplified example, and each passport record belongs to one person.</p>
+</section>
+<section class="card">
+<h2>One-to-Many (1:M)</h2>
+<div class="diagram">Teacher ───── Multiple Classes</div>
+<p>One teacher can be assigned to several classes.</p>
+</section>
+<section class="card">
+<h2>Many-to-Many (M:N)</h2>
+<div class="diagram">Students ⇄ Courses</div>
+<p>Many students can join many courses. A junction table, such as StudentCourse, can represent this relationship.</p>
+</section>
+<section class="card">
+<h2>Why Are Relationships Important?</h2>
+<ul>
+<li>Connect related information.</li>
+<li>Reduce unnecessary duplication.</li>
+<li>Support accurate queries.</li>
+<li>Help maintain data integrity.</li>
+</ul>
+</section>
+</main>
+</body>
+</html>
