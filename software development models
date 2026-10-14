@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Software Development Models</title>
+<style>
+body{font-family:Arial,sans-serif;background:#fff5ed;color:#493226;margin:0;padding:25px}
+header{text-align:center;background:#bd6844;color:white;padding:28px;border-radius:18px}
+main{max-width:850px;margin:25px auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.card{background:white;padding:22px;border-radius:15px;border-top:5px solid #e49a70}
+h2{color:#a74e2b}
+.flow{background:#fff0e4;padding:12px;border-radius:8px;font-weight:bold;line-height:1.8}
+</style>
+</head>
+<body>
+<header><h1>🛠️ Software Development Models</h1><p>Different approaches to building software.</p></header>
+<main>
+<article class="card"><h2>Waterfall Model</h2><div class="flow">Requirements → Design → Coding → Testing</div><p>Work moves through planned stages in sequence. Changes later in the process can be difficult.</p></article>
+<article class="card"><h2>Agile Model</h2><div class="flow">Plan → Build → Review → Repeat</div><p>Software is developed in smaller cycles, with feedback and adaptation.</p></article>
+<article class="card"><h2>Spiral Model</h2><div class="flow">Plan → Assess Risks → Develop → Review</div><p>Development proceeds in cycles with special attention to identifying and managing risks.</p></article>
+<article class="card"><h2>Prototype Model</h2><div class="flow">Idea → Sample → Feedback → Improve</div><p>A preliminary version is created to clarify requirements before building the final system.</p></article>
+<article class="card"><h2>V-Model</h2><div class="flow">Development stages ↔ Testing stages</div><p>Testing activities are planned alongside corresponding development stages.</p></article>
+<article class="card"><h2>Choosing a Model</h2><p>The best approach depends on project size, requirements, risk, deadlines and how often feedback is needed.</p></article>
+</main>
+</body>
+</html>
