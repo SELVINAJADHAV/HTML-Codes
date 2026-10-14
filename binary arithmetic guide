@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Binary Arithmetic Guide</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eafbf5;color:#194a3b;margin:0;padding:25px}
+header{text-align:center;background:#16866a;color:white;padding:28px;border-radius:18px}
+main{max-width:800px;margin:25px auto}
+.card{background:white;margin:18px 0;padding:23px;border-radius:15px}
+.binary{font-family:monospace;text-align:center;font-size:27px;background:#d9f8ed;padding:20px;border-radius:10px;white-space:pre-line}
+.note{border-left:5px solid #16866a;padding:12px;background:#f2fffa}
+</style>
+</head>
+<body>
+<header><h1>💻 Binary Arithmetic</h1><p>Learn how computers add binary numbers.</p></header>
+<main>
+<section class="card">
+<h2>What Is Binary?</h2>
+<p>Binary is a number system that uses only two digits: 0 and 1. Computers use binary to represent data.</p>
+</section>
+<section class="card">
+<h2>Binary Addition Rules</h2>
+<div class="binary">0 + 0 = 0
+0 + 1 = 1
+1 + 0 = 1
+1 + 1 = 10</div>
+<p>In binary, 1 + 1 gives 10: write 0 and carry 1 to the next column.</p>
+</section>
+<section class="card">
+<h2>Example: 10 + 01</h2>
+<div class="binary">  10
++ 01
+----
+  11</div>
+<p>Binary 10 represents decimal 2, and binary 01 represents decimal 1. Their sum is binary 11, which represents decimal 3.</p>
+</section>
+<section class="card">
+<h2>Remember</h2>
+<p class="note">Binary place values from right to left are 1, 2, 4, 8, 16 and so on.</p>
+</section>
+</main>
+</body>
+</html>
