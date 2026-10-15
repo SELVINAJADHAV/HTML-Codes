@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>College Computer Lab</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#edf7ff;color:#203950}
+header{text-align:center;background:#176b87;color:white;padding:35px 20px}
+main{max-width:850px;margin:25px auto;padding:0 15px}
+section{background:white;margin:16px 0;padding:22px;border-radius:14px}
+h2{color:#176b87}
+ul{line-height:1.9}
+.info{display:flex;gap:12px;flex-wrap:wrap}
+.info span{background:#d9f1ff;padding:12px;border-radius:10px}
+</style>
+</head>
+<body>
+<header><h1>🖥️ College Computer Lab</h1><p>A space for practical learning and innovation.</p></header>
+<main>
+<section><h2>About the Lab</h2><p>The computer laboratory gives students a place to practise programming, explore software and complete practical assignments.</p></section>
+<section><h2>Facilities</h2><div class="info"><span>💻 Computers</span><span>🌐 Internet</span><span>📽️ Projector</span><span>🪑 Study Desks</span><span>🖨️ Printer</span></div></section>
+<section><h2>Activities</h2><ul><li>Writing and testing programs</li><li>Creating websites</li><li>Practising database queries</li><li>Learning office applications</li><li>Completing practical assignments</li></ul></section>
+<section><h2>Lab Rules</h2><ul><li>Follow the instructor's guidance.</li><li>Handle equipment carefully.</li><li>Keep food and drinks away from computers.</li><li>Save your work in the correct folder.</li><li>Log out after using shared devices.</li></ul></section>
+<section><h2>Our Goal 🎯</h2><p>Build computer skills through practice, teamwork and curiosity.</p></section>
+</main>
+</body>
+</html>
