@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Project Showcase</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#fff3f7;color:#482b3b}
+header{text-align:center;background:linear-gradient(135deg,#b94e83,#7558c9);color:white;padding:45px 20px}
+header h1{font-size:35px}
+main{max-width:950px;margin:30px auto;padding:0 18px}
+.projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px}
+.card{background:white;padding:23px;border-radius:16px;box-shadow:0 5px 15px #ead9e2}
+.icon{font-size:38px}
+h2{color:#a63d76}
+.category{display:inline-block;background:#ffe0ed;padding:7px 10px;border-radius:20px;font-size:13px}
+footer{text-align:center;padding:25px}
+</style>
+</head>
+<body>
+<header>
+<p>MY LEARNING PORTFOLIO</p>
+<h1>✨ Student Project Showcase</h1>
+<p>Small projects, new skills and continuous learning.</p>
+</header>
+<main>
+<h2>Featured Projects</h2>
+<div class="projects">
+<article class="card"><div class="icon">🌸</div><h2>Creative Webpage</h2><p>A colorful webpage built with HTML and CSS.</p><span class="category">Web Design</span></article>
+<article class="card"><div class="icon">📚</div><h2>Study Resource Hub</h2><p>A simple collection of learning resources and notes.</p><span class="category">Education</span></article>
+<article class="card"><div class="icon">💻</div><h2>Computer Science Guide</h2><p>A beginner-friendly guide to important computing concepts.</p><span class="category">Computer Science</span></article>
+<article class="card"><div class="icon">🗓️</div><h2>Study Schedule</h2><p>A static timetable layout to organize study sessions.</p><span class="category">Student Life</span></article>
+<article class="card"><div class="icon">🗄️</div><h2>Database Notes</h2><p>Revision notes about tables, keys and relationships.</p><span class="category">DBMS</span></article>
+<article class="card"><div class="icon">🚀</div><h2>Next Project</h2><p>Add your next completed project here and describe what you learned.</p><span class="category">In Progress</span></article>
+</div>
+</main>
+<footer>Made with 💗 and a passion for learning.</footer>
+</body>
+</html>
