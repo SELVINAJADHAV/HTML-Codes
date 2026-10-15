@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Generations of Computers</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:24px;font-family:Arial,sans-serif;background:#eef2ff;color:#28345b}
+header{text-align:center;background:#4338a8;color:white;padding:30px;border-radius:18px}
+main{max-width:850px;margin:25px auto}
+.card{background:white;padding:22px;margin:16px 0;border-radius:14px;border-left:6px solid #7567e8}
+h2{color:#5545c4}
+.period{display:inline-block;background:#e8e5ff;padding:7px 12px;border-radius:20px;font-size:13px}
+</style>
+</head>
+<body>
+<header><h1>🖥️ Generations of Computers</h1><p>Explore how computer technology developed.</p></header>
+<main>
+<article class="card"><span class="period">First Generation</span><h2>Vacuum Tubes</h2><p>Early electronic computers used vacuum tubes. They were large, expensive and produced considerable heat.</p></article>
+<article class="card"><span class="period">Second Generation</span><h2>Transistors</h2><p>Transistors replaced vacuum tubes in many computer designs, helping computers become smaller and more reliable.</p></article>
+<article class="card"><span class="period">Third Generation</span><h2>Integrated Circuits</h2><p>Integrated circuits placed multiple electronic components on a small chip.</p></article>
+<article class="card"><span class="period">Fourth Generation</span><h2>Microprocessors</h2><p>Microprocessors helped make personal computers widely available.</p></article>
+<article class="card"><span class="period">Fifth Generation</span><h2>Artificial Intelligence</h2><p>This commonly used educational category highlights AI, advanced processing and intelligent computing systems.</p></article>
+</main>
+</body>
+</html>
