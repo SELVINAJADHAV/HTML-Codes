@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SQL Command Reference</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:25px;font-family:Arial,sans-serif;background:#101d2b;color:#edf5ff}
+header{text-align:center;background:#203b54;padding:28px;border-radius:16px}
+header h1{color:#67e8c0}
+main{max-width:900px;margin:25px auto}
+.card{background:#203044;padding:20px;margin:15px 0;border-radius:12px;border-left:5px solid #67e8c0}
+code{display:block;background:#101d2b;color:#a7f3d0;padding:14px;border-radius:8px;white-space:pre-wrap;overflow-wrap:anywhere}
+h2{color:#67e8c0}
+p{line-height:1.6}
+</style>
+</head>
+<body>
+<header><h1>🗃️ SQL Command Reference</h1><p>Essential SQL commands for beginners.</p></header>
+<main>
+<section class="card"><h2>SELECT — Read Data</h2><code>SELECT name FROM Students;</code><p>Retrieves selected columns from a table.</p></section>
+<section class="card"><h2>INSERT — Add Data</h2><code>INSERT INTO Students (id, name)
+VALUES (1, 'Aarav');</code><p>Adds a new row to a table.</p></section>
+<section class="card"><h2>UPDATE — Modify Data</h2><code>UPDATE Students
+SET name = 'Diya'
+WHERE id = 1;</code><p>Changes existing data. Use a suitable WHERE condition.</p></section>
+<section class="card"><h2>DELETE — Remove Data</h2><code>DELETE FROM Students
+WHERE id = 1;</code><p>Removes matching rows. Check the WHERE condition carefully.</p></section>
+<section class="card"><h2>CREATE TABLE — Define a Table</h2><code>CREATE TABLE Students (
+ id INT PRIMARY KEY,
+ name VARCHAR(100)
+);</code><p>Creates a table with specified columns.</p></section>
+<section class="card"><h2>ORDER BY — Sort Results</h2><code>SELECT * FROM Students
+ORDER BY name ASC;</code><p>Sorts results alphabetically by name in ascending order.</p></section>
+</main>
+</body>
+</html>
