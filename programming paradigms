@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Programming Paradigms</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:25px;font-family:Arial,sans-serif;background:#f4f0ff;color:#30264d}
+header{text-align:center;background:#7158cf;color:white;padding:30px;border-radius:18px}
+main{max-width:900px;margin:25px auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px}
+.card{background:white;padding:22px;border-radius:15px;box-shadow:0 4px 12px #e2dcf3}
+.icon{font-size:35px}
+h2{color:#7158cf}
+footer{text-align:center;padding:20px}
+</style>
+</head>
+<body>
+<header><h1>🧩 Programming Paradigms</h1><p>Discover different ways to write computer programs.</p></header>
+<main>
+<article class="card"><div class="icon">📋</div><h2>Procedural</h2><p>Programs are organized as procedures or functions that perform specific tasks.</p><p><b>Example:</b> C programming.</p></article>
+<article class="card"><div class="icon">🧱</div><h2>Object-Oriented</h2><p>Programs use objects and classes to organize data and behavior.</p><p><b>Concepts:</b> Encapsulation, inheritance and polymorphism.</p></article>
+<article class="card"><div class="icon">🔢</div><h2>Functional</h2><p>Focuses on functions, expressions and minimizing changes to program state.</p><p><b>Concept:</b> Pure functions.</p></article>
+<article class="card"><div class="icon">📜</div><h2>Declarative</h2><p>Describes what result is needed rather than every step to achieve it.</p><p><b>Example:</b> SQL queries.</p></article>
+<article class="card"><div class="icon">⚡</div><h2>Event-Driven</h2><p>Program actions are triggered by events such as clicks or keyboard input.</p><p><b>Example:</b> Interactive user interfaces.</p></article>
+<article class="card"><div class="icon">💡</div><h2>Why Learn Them?</h2><p>Different paradigms help programmers choose suitable ways to organize and solve problems.</p></article>
+</main>
+<footer>Learn the concept, then practise it with code! 💜</footer>
+</body>
+</html>
