@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Computer Science Mind Map</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:25px;font-family:Arial,sans-serif;background:#fff5e9;color:#493523}
+header{text-align:center;background:#d97941;color:white;padding:28px;border-radius:18px}
+.center{text-align:center;background:#ffe0b9;border:2px solid #d97941;padding:20px;margin:25px auto;border-radius:15px;max-width:350px;font-weight:bold;font-size:23px}
+.grid{max-width:950px;margin:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:15px}
+.branch{background:white;border-radius:14px;padding:20px;border-top:5px solid #e8a36d}
+.branch h2{color:#b75e2b}
+footer{text-align:center;margin-top:25px}
+</style>
+</head>
+<body>
+<header><h1>🧠 Computer Science Mind Map</h1><p>Connect the main areas of computing.</p></header>
+<div class="center">💻 COMPUTER SCIENCE</div>
+<main class="grid">
+<section class="branch"><h2>💻 Programming</h2><p>C, Python, Java, algorithms and problem-solving.</p></section>
+<section class="branch"><h2>🗄️ Databases</h2><p>SQL, tables, keys, relationships and queries.</p></section>
+<section class="branch"><h2>🌐 Networking</h2><p>IP addresses, protocols, routers and communication.</p></section>
+<section class="branch"><h2>⚙️ Operating Systems</h2><p>Processes, memory, files and resource management.</p></section>
+<section class="branch"><h2>🧩 Data Structures</h2><p>Arrays, linked lists, stacks, queues and trees.</p></section>
+<section class="branch"><h2>🛡️ Security</h2><p>Authentication, privacy, encryption and safe computing.</p></section>
+<section class="branch"><h2>🎨 Web Development</h2><p>HTML, CSS, websites and user experience.</p></section>
+<section class="branch"><h2>🤖 Artificial Intelligence</h2><p>Machine learning, intelligent systems and data.</p></section>
+</main>
+<footer>Every subject connects to another. Keep exploring! ✨</footer>
+</body>
+</html>
