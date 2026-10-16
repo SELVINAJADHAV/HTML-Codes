@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cloud Computing Guide</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:24px;font-family:Arial,sans-serif;background:#eaf8ff;color:#23435b}
+header{text-align:center;background:#147ca8;color:white;padding:30px;border-radius:18px}
+main{max-width:900px;margin:25px auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:17px}
+.card{background:white;padding:22px;border-radius:15px;box-shadow:0 4px 12px #d5e9f2}
+.icon{font-size:36px}
+h2{color:#147ca8}
+.note{background:#d8f2ff;padding:16px;border-radius:10px;grid-column:1/-1}
+</style>
+</head>
+<body>
+<header><h1>☁️ Cloud Computing</h1><p>Access computing resources over a network.</p></header>
+<main>
+<article class="card"><div class="icon">🖥️</div><h2>IaaS</h2><p>Infrastructure as a Service provides resources such as virtual machines, storage and networks.</p></article>
+<article class="card"><div class="icon">🧰</div><h2>PaaS</h2><p>Platform as a Service provides tools and an environment for building and deploying applications.</p></article>
+<article class="card"><div class="icon">📱</div><h2>SaaS</h2><p>Software as a Service lets users access software through the internet, often using a browser.</p></article>
+<article class="card"><div class="icon">📂</div><h2>Cloud Storage</h2><p>Stores files on remote systems that can be accessed over a network.</p></article>
+<article class="card"><div class="icon">📈</div><h2>Benefits</h2><p>Can offer flexible capacity, remote access and reduced need to maintain local infrastructure.</p></article>
+<article class="card"><div class="icon">🔐</div><h2>Things to Consider</h2><p>Security, privacy, internet availability, cost and provider reliability.</p></article>
+<div class="note"><strong>Example:</strong> Online document editors let students work on files from different devices.</div>
+</main>
+</body>
+</html>
