@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Computer Science Ethics</title>
+<style>
+body{margin:0;padding:25px;font-family:Arial,sans-serif;background:#f2fbf4;color:#24452d}
+header{text-align:center;background:#347a4b;color:white;padding:30px;border-radius:18px}
+main{max-width:820px;margin:25px auto}
+.rule{background:white;padding:21px;margin:15px 0;border-radius:13px;border-left:6px solid #62a873}
+h2{color:#347a4b}
+footer{text-align:center;background:#dff3e3;padding:18px;border-radius:12px}
+</style>
+</head>
+<body>
+<header><h1>⚖️ Computer Science Ethics</h1><p>Use technology responsibly and fairly.</p></header>
+<main>
+<article class="rule"><h2>1. Respect Privacy</h2><p>Collect and share personal data responsibly, and respect people's consent.</p></article>
+<article class="rule"><h2>2. Respect Copyright</h2><p>Give credit to creators and follow the licenses for code, images and other resources.</p></article>
+<article class="rule"><h2>3. Be Honest</h2><p>Present your own work truthfully and acknowledge contributions from others.</p></article>
+<article class="rule"><h2>4. Avoid Harm</h2><p>Build and use technology in ways that reduce harm to people and communities.</p></article>
+<article class="rule"><h2>5. Design for Fairness</h2><p>Consider accessibility and different users' needs when creating digital products.</p></article>
+<article class="rule"><h2>6. Protect Information</h2><p>Use appropriate security practices to protect accounts, devices and data.</p></article>
+<footer><h2>💚 Think Before You Code</h2><p>Good technology should be useful, safe and responsible.</p></footer>
+</main>
+</body>
+</html>
