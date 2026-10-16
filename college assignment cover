@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>College Assignment Cover</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:25px;font-family:Georgia,serif;background:#e9e9f2;color:#272741}
+.cover{max-width:700px;margin:20px auto;background:white;border:8px double #5655a5;padding:45px 30px;text-align:center;min-height:780px;display:flex;flex-direction:column;justify-content:space-between}
+.logo{width:85px;height:85px;margin:0 auto;border:3px solid #5655a5;border-radius:50%;display:grid;place-items:center;font-size:35px}
+h1{color:#45448f;font-size:29px}
+.subtitle{letter-spacing:3px;font-size:13px}
+.line{height:2px;background:#b6b5df;margin:25px auto;max-width:400px}
+.details{max-width:420px;margin:0 auto;text-align:left;line-height:2.2}
+input{font-family:inherit;font-size:15px;border:0;border-bottom:1px solid #aaa;padding:4px;max-width:230px;background:transparent}
+@media(max-width:500px){.cover{padding:30px 16px;min-height:720px}h1{font-size:23px}}
+@media print{body{background:white;padding:0}.cover{margin:0;max-width:none;min-height:100vh;box-shadow:none}}
+</style>
+</head>
+<body>
+<div class="cover">
+<div>
+<div class="logo">🎓</div>
+<p class="subtitle">COLLEGE ASSIGNMENT</p>
+<h1>YOUR COLLEGE NAME</h1>
+<p>Department of Computer Science</p>
+<div class="line"></div>
+<h2>Assignment Title</h2>
+<p>Write your subject or assignment topic here.</p>
+</div>
+<div class="details">
+<p><b>Submitted By:</b> <input aria-label="Student name" placeholder="Your name"></p>
+<p><b>Class:</b> <input aria-label="Class" placeholder="Your class"></p>
+<p><b>Roll Number:</b> <input aria-label="Roll number" placeholder="Your roll number"></p>
+<p><b>Subject:</b> <input aria-label="Subject" placeholder="Subject name"></p>
+<p><b>Submitted To:</b> <input aria-label="Teacher name" placeholder="Teacher name"></p>
+<p><b>Date:</b> <input aria-label="Submission date" placeholder="DD/MM/YYYY"></p>
+</div>
+<div><div class="line"></div><p>Academic Year: 2026–2027</p></div>
+</div>
+</body>
+</html>
