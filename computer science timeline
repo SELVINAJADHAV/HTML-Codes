@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Computer Science Timeline</title>
+<style>
+body{margin:0;padding:25px;font-family:Arial,sans-serif;background:#f8f0ff;color:#3f2e52}
+header{text-align:center;background:#8054a9;color:white;padding:30px;border-radius:18px}
+main{max-width:800px;margin:30px auto;border-left:4px solid #b28ad2;padding-left:22px}
+.event{background:white;padding:19px;margin:20px 0;border-radius:12px;position:relative;box-shadow:0 3px 10px #e7d9f0}
+.event:before{content:"";position:absolute;left:-32px;top:22px;width:15px;height:15px;border-radius:50%;background:#8054a9}
+.year{font-weight:bold;color:#8054a9;font-size:19px}
+</style>
+</head>
+<body>
+<header><h1>📜 Computer Science Timeline</h1><p>Explore selected milestones in computing.</p></header>
+<main>
+<article class="event"><div class="year">1830s</div><h2>Analytical Engine Concept</h2><p>Charles Babbage designed a concept for a general-purpose mechanical computing machine.</p></article>
+<article class="event"><div class="year">1940s</div><h2>Electronic Computers</h2><p>Electronic digital computers developed rapidly during this decade.</p></article>
+<article class="event"><div class="year">1950s–1960s</div><h2>Programming Languages</h2><p>High-level languages such as FORTRAN and COBOL helped make programming more accessible.</p></article>
+<article class="event"><div class="year">1970s</div><h2>Microprocessors</h2><p>Microprocessor technology helped pave the way for smaller computers.</p></article>
+<article class="event"><div class="year">1980s</div><h2>Personal Computing</h2><p>Personal computers became increasingly common in homes, schools and workplaces.</p></article>
+<article class="event"><div class="year">1990s</div><h2>The World Wide Web</h2><p>The Web expanded access to linked information and online services.</p></article>
+<article class="event"><div class="year">2000s–Today</div><h2>Mobile, Cloud and AI</h2><p>Mobile computing, cloud platforms and artificial intelligence continue to influence daily life.</p></article>
+</main>
+</body>
+</html>
