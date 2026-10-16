@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Software Testing Types</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:25px;font-family:Arial,sans-serif;background:#fff4ed;color:#493329}
+header{text-align:center;background:#bb623d;color:white;padding:30px;border-radius:18px}
+main{max-width:900px;margin:25px auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.card{background:white;padding:22px;border-radius:14px;border-top:5px solid #e39a76}
+h2{color:#a94d2d}
+.tag{background:#ffeadf;padding:6px 10px;border-radius:20px;font-size:13px}
+</style>
+</head>
+<body>
+<header><h1>🧪 Software Testing Types</h1><p>Check software quality before and after release.</p></header>
+<main>
+<article class="card"><h2>Unit Testing</h2><span class="tag">Small Components</span><p>Tests individual functions or components in isolation.</p></article>
+<article class="card"><h2>Integration Testing</h2><span class="tag">Connections</span><p>Checks whether different modules work correctly together.</p></article>
+<article class="card"><h2>System Testing</h2><span class="tag">Complete System</span><p>Tests the integrated application against its requirements.</p></article>
+<article class="card"><h2>Acceptance Testing</h2><span class="tag">User Requirements</span><p>Checks whether the system meets agreed user or business needs.</p></article>
+<article class="card"><h2>Regression Testing</h2><span class="tag">After Changes</span><p>Checks that new changes have not broken existing features.</p></article>
+<article class="card"><h2>Performance Testing</h2><span class="tag">Speed and Stability</span><p>Evaluates responsiveness, stability and behavior under workload.</p></article>
+</main>
+</body>
+</html>
