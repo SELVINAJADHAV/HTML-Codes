@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Programming Error Types</title>
+<style>
+body{font-family:Arial,sans-serif;background:#fff1f0;color:#4a2929;margin:0;padding:24px}
+header{text-align:center;background:#b94747;color:white;padding:30px;border-radius:18px}
+main{max-width:850px;margin:25px auto}
+.card{background:white;padding:22px;margin:16px 0;border-radius:14px;border-left:6px solid #e47c73}
+h2{color:#b94747}
+code{display:block;background:#fff0ee;padding:13px;border-radius:8px;white-space:pre-wrap}
+.tip{background:#ffe2de;padding:16px;border-radius:10px}
+</style>
+</head>
+<body>
+<header><h1>🐞 Programming Error Types</h1><p>Understand errors and learn how to fix them.</p></header>
+<main>
+<article class="card"><h2>1. Syntax Error</h2><p>The code breaks the language's grammar rules.</p><code>print("Hello"</code><p>The closing parenthesis is missing.</p></article>
+<article class="card"><h2>2. Runtime Error</h2><p>An error occurs while a program is running.</p><code>number = 10 / 0</code><p>In Python, dividing a number by zero raises an error.</p></article>
+<article class="card"><h2>3. Logical Error</h2><p>The program runs but produces an incorrect result.</p><code>length = 5
+width = 3
+area = length + width</code><p>For a rectangle, area should be calculated using multiplication.</p></article>
+<article class="card"><h2>4. Type Error</h2><p>An operation is used with an incompatible type.</p><code>age = "18" + 2</code><p>In Python, this raises a type error because a string and integer cannot be added this way.</p></article>
+<article class="card"><h2>Debugging Tips</h2><div class="tip">✓ Read the full error message.<br>✓ Check the line mentioned.<br>✓ Test one change at a time.<br>✓ Use small examples to reproduce the problem.</div></article>
+</main>
+</body>
+</html>
