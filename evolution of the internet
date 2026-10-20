@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Evolution of the Internet</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eaf8ff;color:#234158;margin:0;padding:24px}
+header{text-align:center;background:#167b9d;color:white;padding:30px;border-radius:18px}
+main{max-width:800px;margin:28px auto;border-left:4px solid #43a8c7;padding-left:22px}
+.event{background:white;padding:20px;margin:20px 0;border-radius:13px;position:relative}
+.event:before{content:"";position:absolute;left:-33px;top:25px;width:16px;height:16px;background:#167b9d;border-radius:50%}
+.year{color:#167b9d;font-weight:bold}
+h2{margin-bottom:8px}
+footer{text-align:center;background:#d6f2fc;padding:18px;border-radius:12px}
+</style>
+</head>
+<body>
+<header><h1>🌐 Evolution of the Internet</h1><p>From early networks to a connected world.</p></header>
+<main>
+<article class="event"><p class="year">1960s–1970s</p><h2>Early Computer Networks</h2><p>Research networks helped establish ideas and technologies for connecting computers.</p></article>
+<article class="event"><p class="year">1983</p><h2>TCP/IP Adoption</h2><p>ARPANET's transition to TCP/IP became an important milestone in internetworking.</p></article>
+<article class="event"><p class="year">1989–1991</p><h2>World Wide Web</h2><p>Tim Berners-Lee proposed the Web and developed its early technologies for linked information.</p></article>
+<article class="event"><p class="year">1990s</p><h2>Public Web Growth</h2><p>Web browsers and websites helped the internet reach more people.</p></article>
+<article class="event"><p class="year">2000s</p><h2>Social and Interactive Web</h2><p>Blogs, social networks and online services encouraged people to create and share content.</p></article>
+<article class="event"><p class="year">2010s–Today</p><h2>Mobile and Cloud Services</h2><p>Smartphones, streaming, cloud computing and AI-powered services continue to shape online experiences.</p></article>
+</main>
+<footer>The internet continues to evolve with new ideas and technologies. 🚀</footer>
+</body>
+</html>
