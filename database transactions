@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Database Transactions</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eefaf6;color:#204438;margin:0;padding:24px}
+header{text-align:center;background:#237d68;color:white;padding:30px;border-radius:18px}
+main{max-width:850px;margin:25px auto}
+.card{background:white;padding:22px;margin:15px 0;border-radius:14px;border-top:5px solid #48ad91}
+h2{color:#237d68}
+.letter{font-size:30px;font-weight:bold;color:#237d68}
+.example{background:#dcf7ed;padding:18px;border-radius:12px}
+</style>
+</head>
+<body>
+<header><h1>🔄 Database Transactions</h1><p>Learn how databases handle groups of operations.</p></header>
+<main>
+<section class="card"><h2>What Is a Transaction?</h2><p>A transaction is a group of database operations treated as one logical unit of work.</p></section>
+<section class="card"><div class="letter">A — Atomicity</div><p>All operations in a transaction succeed together, or the transaction is rolled back.</p></section>
+<section class="card"><div class="letter">C — Consistency</div><p>A transaction should preserve the database's defined rules and constraints.</p></section>
+<section class="card"><div class="letter">I — Isolation</div><p>Concurrent transactions are controlled so they do not interfere in unacceptable ways.</p></section>
+<section class="card"><div class="letter">D — Durability</div><p>After a transaction is committed, its changes are designed to persist even after a failure.</p></section>
+<section class="card"><h2>Example: Bank Transfer</h2><div class="example"><p>1. Subtract ₹500 from Account A.</p><p>2. Add ₹500 to Account B.</p><p>3. Commit both operations if successful; otherwise, roll back as appropriate.</p></div></section>
+</main>
+</body>
+</html>
