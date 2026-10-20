@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Structures Comparison</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f4f0ff;color:#30274b;margin:0;padding:24px}
+header{text-align:center;background:#694bc2;color:white;padding:28px;border-radius:18px}
+main{max-width:900px;margin:25px auto}
+.card{background:white;padding:20px;margin:15px 0;border-radius:14px;border-left:6px solid #8969df}
+h2{color:#694bc2}
+table{width:100%;border-collapse:collapse;background:white}
+th,td{padding:12px;border:1px solid #e3dcf4;text-align:left}
+th{background:#e9e1ff}
+.table-wrap{overflow-x:auto}
+</style>
+</head>
+<body>
+<header><h1>🧩 Data Structures Comparison</h1><p>Choose the right way to organize data.</p></header>
+<main>
+<section class="card"><h2>Array</h2><p>Stores elements in an indexed sequence. Useful for quick access by index.</p></section>
+<section class="card"><h2>Linked List</h2><p>Stores elements in nodes connected through links. Insertions can be convenient when the correct node is already located.</p></section>
+<section class="card"><h2>Stack</h2><p>Follows LIFO: Last In, First Out. Example: an undo history.</p></section>
+<section class="card"><h2>Queue</h2><p>Typically follows FIFO: First In, First Out. Example: a print queue.</p></section>
+<section class="card"><h2>Tree</h2><p>Organizes data hierarchically using parent-child relationships.</p></section>
+<section class="card"><h2>Hash Table</h2><p>Uses keys to organize values and often supports fast average-case lookups.</p></section>
+<h2>Quick Comparison</h2>
+<div class="table-wrap">
+<table>
+<tr><th>Structure</th><th>Organization</th><th>Common Use</th></tr>
+<tr><td>Array</td><td>Indexed sequence</td><td>Lists of values</td></tr>
+<tr><td>Linked List</td><td>Connected nodes</td><td>Dynamic sequences</td></tr>
+<tr><td>Stack</td><td>LIFO</td><td>Undo operations</td></tr>
+<tr><td>Queue</td><td>FIFO</td><td>Task scheduling</td></tr>
+<tr><td>Tree</td><td>Hierarchy</td><td>File structures</td></tr>
+<tr><td>Hash Table</td><td>Key-value pairs</td><td>Fast lookups</td></tr>
+</table>
+</div>
+</main>
+</body>
+</html>
